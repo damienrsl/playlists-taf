@@ -5,10 +5,9 @@
   "son": "Baroque et musique de chambre, cordes et clavecin, sans voix",
   "pourquoi": "Tempo stable, pas de paroles : le choix classique des bibliothèques. L'« effet Mozart » est un mythe, mais la régularité du baroque reste un bon fond.",
   "sources": [
-   "37i9dQZF1DWXjj6kdiviS0",
-   "0QknRAZUpwPtM2dQIzAnAa"
+   "37i9dQZF1DWXjj6kdiviS0"
   ],
-  "duree_min": 161,
+  "duree_min": 162,
   "titres": [
    {
     "uri": "spotify:track:4MAXGAYV1VYA0YQKW3GcAS",
@@ -18,38 +17,45 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:5a069CxLppfx9HfXLtT6RU",
-    "name": "escape",
-    "artist": "Chilled Pig, mia keys",
-    "duration_ms": 178909,
+    "uri": "spotify:track:0jcDqF18WRPjLHUpYVYBw3",
+    "name": "The Well-tempered Clavier, Book II, BWV 870-893: Prelude and Fugue No. 1 in C Major, BWV 870: I. Prelude",
+    "artist": "Johann Sebastian Bach, Benjamin Alard",
+    "duration_ms": 113840,
     "explicit": false
    },
    {
-    "uri": "spotify:track:6cGZwA4h7qZEC0VHoQbkqk",
-    "name": "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air (Arr. for Piano by Alexander Siloti)",
-    "artist": "Johann Sebastian Bach, Federico Colli",
-    "duration_ms": 226053,
+    "uri": "spotify:track:2O5QhTGSdqAHMgz9zCf4gr",
+    "name": "Les quatre saisons, L'automne: Allegro",
+    "artist": "Antonio Vivaldi, Orchestre de Chambre National de Toulouse, Alain Moglia",
+    "duration_ms": 321600,
     "explicit": false
    },
    {
-    "uri": "spotify:track:0n981pLN3oIioTVvacClUO",
-    "name": "La stravaganza, Violin Concerto in D Major, RV 204, Op. 4 No. 11: III. Allegro assai",
-    "artist": "Antonio Vivaldi, Simon Standage, The English Concert, Trevor Pinnock",
-    "duration_ms": 118333,
+    "uri": "spotify:track:6Py4w40gT53wpIG6gFVsm6",
+    "name": "Corelli: Concerto grosso in D Major, Op. 6 No. 4: II. Adagio (Arr. Diluka for Piano)",
+    "artist": "Arcangelo Corelli, Shani Diluka",
+    "duration_ms": 103706,
     "explicit": false
    },
    {
-    "uri": "spotify:track:22uTdMUy6Q8bLcyHxM82RX",
-    "name": "Concerto grosso in G Minor, Op. 6 No. 8, \"Christmas Concerto\": Adagio (Arr. Davies, Gordon and Tognetti)",
-    "artist": "Arcangelo Corelli, Richard Tognetti",
-    "duration_ms": 115600,
+    "uri": "spotify:track:41QRr2FaPlZbqdUckDoaWc",
+    "name": "Ouverture-Suite in A Minor for Recorder, Strings & Basso Continuo, TWV 55:A2: V. Réjouissance",
+    "artist": "Georg Philipp Telemann, Max Volbers, Il Pomo D'oro",
+    "duration_ms": 136606,
     "explicit": false
    },
    {
-    "uri": "spotify:track:7IbpZd6I8hkoH7E2r8Imc5",
-    "name": "Tafelmusik, Pt. 2, Concerto for 3 Violins in F Major, TWV 53:F1: I. Allegro",
-    "artist": "Georg Philipp Telemann, Musica Antiqua Köln, Reinhard Goebel",
-    "duration_ms": 310666,
+    "uri": "spotify:track:2bBCehiFI4Ts0D9qcVx81F",
+    "name": "Gnossiennes: No. 5",
+    "artist": "Erik Satie, Reinbert de Leeuw",
+    "duration_ms": 206800,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:3XEOqMDioIs0B98ZMnTWp6",
+    "name": "Debussy: Children's Corner, CD 119, L. 113: No. 2, Jimbo's Lullaby",
+    "artist": "Claude Debussy, Cristina Ortiz",
+    "duration_ms": 207360,
     "explicit": false
    },
    {
@@ -60,38 +66,24 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:39uLYYZytVUwcjgeYLI409",
-    "name": "Merry-Go-Round of Life - from 'Howl's Moving Castle'",
-    "artist": "Joe Hisaishi",
-    "duration_ms": 311106,
+    "uri": "spotify:track:0n981pLN3oIioTVvacClUO",
+    "name": "La stravaganza, Violin Concerto in D Major, RV 204, Op. 4 No. 11: III. Allegro assai",
+    "artist": "Antonio Vivaldi, Simon Standage, The English Concert, Trevor Pinnock",
+    "duration_ms": 118333,
     "explicit": false
    },
    {
-    "uri": "spotify:track:3xCdZxXhp0HnNUGAp2CY5G",
-    "name": "The Well-tempered Clavier, Book II, BWV 870-893: Prelude and Fugue No. 4 in C-Sharp Minor, BWV 873: I. Prelude",
-    "artist": "Johann Sebastian Bach, Benjamin Alard",
-    "duration_ms": 211653,
+    "uri": "spotify:track:3exta8dwSj4jtkgMnqanKG",
+    "name": "Concerto Grosso in D Major, Op. 6 No. 4: II. Allegro",
+    "artist": "Arcangelo Corelli, Jordi Savall, Le Concert Des Nations",
+    "duration_ms": 174426,
     "explicit": false
    },
    {
-    "uri": "spotify:track:4VZvXMNkAzAnt4D2VH0VL8",
-    "name": "The Four Seasons, Summer, Violin Concerto in G Minor, Op. 8/2, RV 315: II. Adagio e piano – Presto e forte",
-    "artist": "Antonio Vivaldi, Michel Schwalbé, Eberhard Finke, Horst Gobel, Berliner Philharmoniker, Herbert von Karajan",
-    "duration_ms": 136066,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:75stBuCl8Z724wPWtW8gFL",
-    "name": "Concerto grosso in D Major, Op. 6 No. 1: IIa. Largo -",
-    "artist": "Arcangelo Corelli, Anna Holbling, Ludovit Kanta, Daniela Ruso, Quido Holbling, Capella Istropolitana, Jaroslav Krcek",
-    "duration_ms": 92253,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:4dxQyaS2Al1FY5EQNzxjcn",
-    "name": "Ouverture-Suite in G Major \"La Bizarre\", TWV 55:G2 (Arr. for Recorder and Orchestra by Max Volbers): I. Ouverture",
-    "artist": "Georg Philipp Telemann, Max Volbers, Il Pomo D'oro",
-    "duration_ms": 298423,
+    "uri": "spotify:track:7IbpZd6I8hkoH7E2r8Imc5",
+    "name": "Tafelmusik, Pt. 2, Concerto for 3 Violins in F Major, TWV 53:F1: I. Allegro",
+    "artist": "Georg Philipp Telemann, Musica Antiqua Köln, Reinhard Goebel",
+    "duration_ms": 310666,
     "explicit": false
    },
    {
@@ -116,13 +108,6 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:4O2BKvXG8TRijWec0aa4KG",
-    "name": "Consolation",
-    "artist": "Alain Lefèvre",
-    "duration_ms": 230733,
-    "explicit": false
-   },
-   {
     "uri": "spotify:track:6u8i56Ap65q9O7qdNv45g2",
     "name": "Keyboard Concerto in F Minor, BWV 1056: II. Largo",
     "artist": "Johann Sebastian Bach, Hae Won Chang, Camerata Cassovia, Robert Stankovsky",
@@ -130,24 +115,10 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:5JVnUqrqMucmT7mSmfopfC",
-    "name": "Les quatre saisons, L'été: Presto",
-    "artist": "Antonio Vivaldi, Orchestre de Chambre National de Toulouse, Alain Moglia",
-    "duration_ms": 162600,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:6ziaCdFVHrc5yyLFLq21H5",
-    "name": "Concerto grosso in D Major, Op. 6 No. 1: III. Largo",
-    "artist": "Arcangelo Corelli, Anna Holbling, Ludovit Kanta, Daniela Ruso, Quido Holbling, Capella Istropolitana, Jaroslav Krcek",
-    "duration_ms": 230866,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:3XEOqMDioIs0B98ZMnTWp6",
-    "name": "Debussy: Children's Corner, CD 119, L. 113: No. 2, Jimbo's Lullaby",
-    "artist": "Claude Debussy, Cristina Ortiz",
-    "duration_ms": 207360,
+    "uri": "spotify:track:6WWPgI2DxkXBrv6FbcV7cc",
+    "name": "Violin Concerto in A Minor, Op. 3, No. 6, RV 356: II. Largo",
+    "artist": "Antonio Vivaldi, Jindrich Pazdera, Accademia Ziliniana",
+    "duration_ms": 151866,
     "explicit": false
    },
    {
@@ -158,10 +129,24 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:3Zh035IdrO7lyMxq6kWkV0",
-    "name": "2 Arabesques, CD 74: No. 1, Andantino con moto",
-    "artist": "Claude Debussy, Steven Osborne",
-    "duration_ms": 210213,
+    "uri": "spotify:track:6cGZwA4h7qZEC0VHoQbkqk",
+    "name": "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air (Arr. for Piano by Alexander Siloti)",
+    "artist": "Johann Sebastian Bach, Federico Colli",
+    "duration_ms": 226053,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:75stBuCl8Z724wPWtW8gFL",
+    "name": "Concerto grosso in D Major, Op. 6 No. 1: IIa. Largo -",
+    "artist": "Arcangelo Corelli, Anna Holbling, Ludovit Kanta, Daniela Ruso, Quido Holbling, Capella Istropolitana, Jaroslav Krcek",
+    "duration_ms": 92253,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:1LIXECDA0FgCEygoB6PaAe",
+    "name": "Suite bergamasque, L. 75: III. Clair de lune",
+    "artist": "Claude Debussy, François-Joël Thiollier",
+    "duration_ms": 314333,
     "explicit": false
    },
    {
@@ -172,52 +157,10 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:4qg7uptMkSHq8uatbgcP37",
-    "name": "Orpheo ed Euridice, Wq 30, Act II: Dance of the Blessed Spirits",
-    "artist": "Christoph Willibald Gluck, Eugene Ormandy, Philadelphia Orchestra",
-    "duration_ms": 207106,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:2bBCehiFI4Ts0D9qcVx81F",
-    "name": "Gnossiennes: No. 5",
-    "artist": "Erik Satie, Reinbert de Leeuw",
-    "duration_ms": 206800,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:5TGdpgBRF0XI21gSWowd7y",
-    "name": "Almira, HWV 1 (Excerpts): Sarabande",
-    "artist": "George Frideric Handel, Il Pomo D'oro, Francesco Corti",
-    "duration_ms": 117372,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:1wuCuSLzQyUaTfhRQbA5En",
-    "name": "Valley of Luna",
-    "artist": "Mikael Virtanen, Bastian Verte",
-    "duration_ms": 156254,
-    "explicit": false
-   },
-   {
     "uri": "spotify:track:046QXrgXyqsKfccoAlL4E2",
     "name": "Symphony No. 104 in D Major, Hob. I:104 \"Salomon\": IV. Finale. Spiritoso",
     "artist": "Joseph Haydn, Danish Chamber Orchestra, Ádám Fischer",
     "duration_ms": 392013,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:1cLqcUQzMpgiSCp6Bqx7X8",
-    "name": "Auf dem Wasser zu singen, D. 774 - Transcription: Franz Liszt, Searle 558 No. 2",
-    "artist": "Evgeny Kissin",
-    "duration_ms": 232440,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:6ci4RuIy9fSpPnZ14y0W3R",
-    "name": "Solitude",
-    "artist": "Joseph Sullinger",
-    "duration_ms": 167978,
     "explicit": false
    },
    {
@@ -228,24 +171,10 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:7IHEJdJhju1F2rhIiwgawx",
-    "name": "Fantasia in D Minor, K. 397",
-    "artist": "Wolfgang Amadeus Mozart, Alfred Brendel",
-    "duration_ms": 316653,
-    "explicit": false
-   },
-   {
     "uri": "spotify:track:6LgC4yxUjfzOKneWA03iUK",
     "name": "Nouvelles suites de pièces de clavecin, Suite in A Minor, RCT 5: V. Fanfarinette",
     "artist": "Jean-Philippe Rameau, Mahan Esfahani",
     "duration_ms": 156746,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:3DNRdudZ2SstnDCVKFdXxG",
-    "name": "Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 - \"Moonlight Sonata\": I. Adagio sostenuto",
-    "artist": "Ludwig van Beethoven, Paul Lewis",
-    "duration_ms": 315426,
     "explicit": false
    },
    {
@@ -256,24 +185,10 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:2w2ILZhs6v4kAEPD8GLIJj",
-    "name": "Today and it’s gone (Munich Session)",
-    "artist": "Carlos Cipa",
-    "duration_ms": 258000,
-    "explicit": false
-   },
-   {
     "uri": "spotify:track:3QJrYXsAWshnTzzHzapRCz",
     "name": "Ciaccona (I)",
     "artist": "Christina Pluhar, Maurizio Cazzati, L'Arpeggiata",
     "duration_ms": 232626,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:6gBN5ivoMcDyPAwNJWPiao",
-    "name": "Moonlit Reverie",
-    "artist": "Mikael Virtanen, Bastian Verte",
-    "duration_ms": 229000,
     "explicit": false
    },
    {
@@ -284,27 +199,6 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:0hZBK2IS2uKdWVwEWXX1vB",
-    "name": "Gymnopédie No. 3",
-    "artist": "Erik Satie, Philippe Entremont",
-    "duration_ms": 175426,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:0rFdP3ZfwsUajBLUuex0Kb",
-    "name": "Einaudi: Una mattina",
-    "artist": "Ludovico Einaudi, Gautier Capuçon, Jerome Ducros",
-    "duration_ms": 190813,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:4zHwTFds1F7MJ4NkuKCFIb",
-    "name": "Arc de Triunfo de Barcelona",
-    "artist": "Mikael Virtanen, Bastian Verte",
-    "duration_ms": 249000,
-    "explicit": false
-   },
-   {
     "uri": "spotify:track:2O5gzR0SXdH6QV7MSkUQ3c",
     "name": "Cello Concerto in B-Flat Major, H. 436, Wq. 171: III. Allegro assai",
     "artist": "Carl Philipp Emanuel Bach, Jean-Guihen Queyras, Ensemble Resonanz, Riccardo Minasi",
@@ -312,17 +206,10 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:3Fyu9LqYNAbXq8HC8Cquoc",
-    "name": "Clarinet Concerto in A Major, K622 (arr. piano)",
-    "artist": "Music Lab Collective, Wolfgang Amadeus Mozart",
-    "duration_ms": 178464,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:2gNUPv9Lbvd0adulPy47tS",
-    "name": "Württemberg Sonata No. 4 in B-Flat Major, H. 32: II. Andante",
-    "artist": "Carl Philipp Emanuel Bach, Keith Jarrett",
-    "duration_ms": 180880,
+    "uri": "spotify:track:6ajRRfc2LHpk9Ln8tKIrf5",
+    "name": "Trio Sonata for 2 Violins and Continuo in G Minor, HWV 393 \"Dresden\" No. 2: III. Largo (Arr. for Oboe, Violin, Harpsichord and Orchestra by Andreas Tarkmann)",
+    "artist": "George Frideric Handel, Albrecht Mayer, Sinfonia Varsovia, Jakub Haufa, Monika Razynska",
+    "duration_ms": 181173,
     "explicit": false
    },
    {
@@ -330,6 +217,118 @@
     "name": "Boccherini: String Quintet in E Major, Op. 11 No. 5, G. 275: III. Minuetto - Trio (Arr. Woodhouse for String Orchestra)",
     "artist": "Luigi Boccherini, Sir Neville Marriner, Academy of St. Martin in the Fields",
     "duration_ms": 237720,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:3KcwUloOtiJw20gG6Zo7Nt",
+    "name": "Lo frate 'nnamorato, Sinfonia in D Major: II. Andante",
+    "artist": "Giovanni Battista Pergolesi, Naples Chamber Orchestra, Enzo Amato",
+    "duration_ms": 147120,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:1b7Gui95FOHRRza7gh8KDf",
+    "name": "Pièces de viole, Livre 2 - Suite No. 3 in D Major: No. 63. Les Voix Humaines (Lentement)",
+    "artist": "Marin Marais, Philippe Pierlot",
+    "duration_ms": 368929,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:7qpkLZL5ePxCfZMA3PuNjg",
+    "name": "Violin Sonata No. 2 in D Major: I. Presto",
+    "artist": "Élisabeth Jacquet de La Guerre, Lina Tur Bonet, Patxi Montero, Kenneth Weiss",
+    "duration_ms": 96840,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:3cIHYRhgYUQGXUWKwb3FVo",
+    "name": "Symphony No. 43 in E-Flat Major, Hob. I:43 \"Mercury\": I. Allegro",
+    "artist": "Joseph Haydn, Tafelmusik Baroque Orchestra, Rachel Podger",
+    "duration_ms": 416307,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:5UO0mq9xiBiwwfA91u8YQn",
+    "name": "Marche pour la cérémonie des Turcs",
+    "artist": "Jean-Baptiste Lully, Jordi Savall, Le Concert Des Nations",
+    "duration_ms": 139337,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:0JWcB3Vvz1XWqM1BIky8zn",
+    "name": "Flute Concerto in D Minor, QV 5:81: II. Arioso",
+    "artist": "Johann Joachim Quantz, Mary Oleskiewicz, Concerto Armonico Budapest, Miklós Spányi",
+    "duration_ms": 349613,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:5olY8yO9tGgPee9xNasVpN",
+    "name": "Sonata in E Major, K. 380",
+    "artist": "Domenico Scarlatti, Khatia Buniatishvili",
+    "duration_ms": 172800,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:1HPcyCEdd3b1inMCmqMgut",
+    "name": "Trio Sonata No. 4 in C Major, DürG 13 (Attrib. J.S. Bach as BWV 1037): I. Adagio",
+    "artist": "Johann Gottlieb Goldberg, London Baroque",
+    "duration_ms": 195680,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:28f5jsDdsTFdnsogwPbN3d",
+    "name": "Cello Concerto No. 6 in D Major, G. 479: II. Adagio",
+    "artist": "Luigi Boccherini, Steven Isserlis, Orchestra of the Age of Enlightenment",
+    "duration_ms": 314333,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:24FADyq2xFPud5AD4fDctm",
+    "name": "Première Suite: Prélude",
+    "artist": "Jordi Savall, Ton Koopman, Ariane Maurette",
+    "duration_ms": 266986,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:6DVOkFsGwUrGEEbtQ1Fcgc",
+    "name": "La complaisante, H. 109",
+    "artist": "Carl Philipp Emanuel Bach, Marc-André Hamelin",
+    "duration_ms": 175949,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:4wVfNcuFvJzBE5FQ5J479c",
+    "name": "Canarios",
+    "artist": "Gaspar Sanz, Thibault Cauvin",
+    "duration_ms": 150133,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:1G3QPQkoXvpChjNUhd6Tfs",
+    "name": "The Arts and the Hours",
+    "artist": "Jean-Philippe Rameau, Víkingur Ólafsson",
+    "duration_ms": 285442,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:14stuPc6g7QVOQt2FSMJJM",
+    "name": "Suite in G major: Prélude - lentement",
+    "artist": "Marin Marais, Mieneke van der Velden, Glen Wilson",
+    "duration_ms": 147560,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:0BJMoeIvpo2ButJbBEnWi3",
+    "name": "Keyboard Sonata in D Minor, Kk. 9",
+    "artist": "Domenico Scarlatti, Angela Hewitt",
+    "duration_ms": 238146,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:6sLr7HzQe2xQVhBmhrT3vU",
+    "name": "Les baricades mystérieuses - Arranged By Göran Söllscher",
+    "artist": "François Couperin, Göran Söllscher",
+    "duration_ms": 163733,
     "explicit": false
    }
   ]
@@ -345,17 +344,10 @@
   "duree_min": 161,
   "titres": [
    {
-    "uri": "spotify:track:5rWsceGlMA0FD647lhEVEX",
-    "name": "Gravity",
-    "artist": "Ole-Bjørn Talstad",
-    "duration_ms": 135122,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:2tr4oclswJ6v3dfDlI01HD",
-    "name": "Them",
-    "artist": "Nils Frahm",
-    "duration_ms": 239769,
+    "uri": "spotify:track:3rqNtzfekrqoZcaK2CfGwP",
+    "name": "The Northern Fields",
+    "artist": "SG Hilltwig",
+    "duration_ms": 153263,
     "explicit": false
    },
    {
@@ -366,38 +358,45 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:3p6I4l3hGWwyccQ4nR6FkP",
-    "name": "Dancing with Ghosts",
-    "artist": "Hania Rani, Patrick Watson",
-    "duration_ms": 299400,
+    "uri": "spotify:track:7vbCfkJf89i4s745KbELgr",
+    "name": "20:17",
+    "artist": "Ólafur Arnalds, Nils Frahm",
+    "duration_ms": 354988,
     "explicit": false
    },
    {
-    "uri": "spotify:track:2ffwBvpsQhgXyU7zBUOhwP",
-    "name": "Written on the Sky",
-    "artist": "Max Richter",
-    "duration_ms": 100013,
+    "uri": "spotify:track:768QnTZVvJ4DUDeouU98fk",
+    "name": "F Major",
+    "artist": "Hania Rani",
+    "duration_ms": 292337,
     "explicit": false
    },
    {
-    "uri": "spotify:track:6UoXdw6En9tdGU5AruijZP",
-    "name": "Sinfonia (After Bach, BWV 248)",
+    "uri": "spotify:track:0PCduL4v5QEEKqeRUv7TEC",
+    "name": "The Gift",
     "artist": "Joep Beving",
-    "duration_ms": 280500,
+    "duration_ms": 225866,
     "explicit": false
    },
    {
-    "uri": "spotify:track:0w63OgyF5w5TByQRLySBBs",
-    "name": "Steep Hills of Vicodin Tears",
-    "artist": "A Winged Victory for the Sullen, Adam Wiltzie, Dustin O'Halloran",
-    "duration_ms": 266800,
+    "uri": "spotify:track:18jxPJ0aA7zq0ijztjSvTY",
+    "name": "Lion Theme (From \"Lion\" Soundtrack)",
+    "artist": "Dustin O'Halloran, Volker Bertelmann",
+    "duration_ms": 118746,
     "explicit": false
    },
    {
-    "uri": "spotify:track:0BWcCMkMw75STcuMW8eW1a",
-    "name": "The Quiet Between",
-    "artist": "Lucien Vallière",
-    "duration_ms": 181980,
+    "uri": "spotify:track:7C9g6gFnIiFyu91amzat3q",
+    "name": "Remember",
+    "artist": "Bodi Lukasz",
+    "duration_ms": 157309,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:4CJUL27qGiX5MfHFcFpr38",
+    "name": "Because This Must Be",
+    "artist": "Nils Frahm",
+    "duration_ms": 165557,
     "explicit": false
    },
    {
@@ -422,10 +421,10 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:5BRfucuiAf5IYRbwBYBYPZ",
-    "name": "Ab Ovo",
+    "uri": "spotify:track:0vzSIBAqnN1HzvWrPbh6VF",
+    "name": "Ala",
     "artist": "Joep Beving",
-    "duration_ms": 288280,
+    "duration_ms": 120741,
     "explicit": false
    },
    {
@@ -436,10 +435,10 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:1auOHHVxDzL9gGj3Tg4rlk",
-    "name": "Wet Pavement",
-    "artist": "Lina Emsen",
-    "duration_ms": 184789,
+    "uri": "spotify:track:5rWsceGlMA0FD647lhEVEX",
+    "name": "Gravity",
+    "artist": "Ole-Bjørn Talstad",
+    "duration_ms": 135122,
     "explicit": false
    },
    {
@@ -450,59 +449,24 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:6Xajr512QEGAZ20bqAWkyT",
-    "name": "Near Light",
+    "uri": "spotify:track:0nYm42RuPWFaHWUXUdwHYm",
+    "name": "Happiness Does Not Wait",
     "artist": "Ólafur Arnalds",
-    "duration_ms": 208589,
+    "duration_ms": 251626,
     "explicit": false
    },
    {
-    "uri": "spotify:track:0qLJdyq6rqXQmdlzjtcCs1",
-    "name": "Esja",
+    "uri": "spotify:track:5Sxq3lE3BHAko3mVEr911J",
+    "name": "Dreamy",
     "artist": "Hania Rani",
-    "duration_ms": 261306,
+    "duration_ms": 179800,
     "explicit": false
    },
    {
-    "uri": "spotify:track:0PCduL4v5QEEKqeRUv7TEC",
-    "name": "The Gift",
-    "artist": "Joep Beving",
-    "duration_ms": 225866,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:5xhCCyLXPEaut6Bh049MVn",
-    "name": "We Move Lightly",
-    "artist": "Dustin O'Halloran",
-    "duration_ms": 186796,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:3PjllqpJS9qF82x1qxaTGv",
-    "name": "I Believe",
-    "artist": "M. Ljungström",
-    "duration_ms": 138057,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:5626KdflSKfeDK7RJQfSrE",
-    "name": "Says",
-    "artist": "Nils Frahm",
-    "duration_ms": 498000,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:1ijwLR1iybtxaUbasUj7kJ",
-    "name": "Saudade (When We Are Born)",
-    "artist": "Ólafur Arnalds",
-    "duration_ms": 150000,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:2NGhKPZdZk2pPZinWphTzh",
-    "name": "November",
-    "artist": "Max Richter, Mari Samuelsen, Konzerthausorchester Berlin, Jonathan Stockhammer",
-    "duration_ms": 367240,
+    "uri": "spotify:track:19XHJBUofPqmM51ULg483z",
+    "name": "Beving: The Gift",
+    "artist": "Joep Beving, Dalal",
+    "duration_ms": 229422,
     "explicit": false
    },
    {
@@ -513,17 +477,73 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:3C1YOgC9O7ecXCnlkkQAVR",
-    "name": "Soft Rain",
-    "artist": "Saverio Lobeone",
-    "duration_ms": 136034,
+    "uri": "spotify:track:657LOljr0QcBwRX1qtWQy6",
+    "name": "As a Rose Blossom",
+    "artist": "Emile Cerise",
+    "duration_ms": 131433,
     "explicit": false
    },
    {
-    "uri": "spotify:track:2OyKrptIfiqSpCHwA7ACq6",
-    "name": "Playthings",
-    "artist": "Silvenna",
-    "duration_ms": 171090,
+    "uri": "spotify:track:28gRlopNz7IIWwiH32poAb",
+    "name": "Some",
+    "artist": "Nils Frahm",
+    "duration_ms": 254173,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:2ffwBvpsQhgXyU7zBUOhwP",
+    "name": "Written on the Sky",
+    "artist": "Max Richter",
+    "duration_ms": 100013,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:6AYwXxyRSjmsuBLxMkky55",
+    "name": "Home Again",
+    "artist": "Joel Moin",
+    "duration_ms": 164717,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:0tYuVSs2DqXhtXT4JzDWSt",
+    "name": "On the Nature of Daylight - Orchestral Version",
+    "artist": "Max Richter, Lorenz Dangel",
+    "duration_ms": 396066,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:0w63OgyF5w5TByQRLySBBs",
+    "name": "Steep Hills of Vicodin Tears",
+    "artist": "A Winged Victory for the Sullen, Adam Wiltzie, Dustin O'Halloran",
+    "duration_ms": 266800,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:4XOrreh4CufJwuUg3p7DuR",
+    "name": "Light",
+    "artist": "Tankeflukt",
+    "duration_ms": 167260,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:5XaDdPqb8MTApJ5kqReqgg",
+    "name": "New Light",
+    "artist": "Dalby",
+    "duration_ms": 146801,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:4d9ORvnSV7lkOtobYvaOvx",
+    "name": "The Distance Between Us",
+    "artist": "Sigrid Vega",
+    "duration_ms": 123500,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:2XG0PfL6D9eKOO47cDcX6O",
+    "name": "Empty Rooms",
+    "artist": "Harmonic Reverie",
+    "duration_ms": 164482,
     "explicit": false
    },
    {
@@ -534,115 +554,10 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:3vOo0FZS07KlwdwccR88Fh",
-    "name": "Whitewashed",
-    "artist": "Fogvale",
-    "duration_ms": 150869,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:3LkQZrx4ozjCE1RxHON6Bc",
-    "name": "Veloura",
-    "artist": "Waylen Orson",
-    "duration_ms": 146718,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:6tjTkfFbTufMZb0JgO6mQm",
-    "name": "Peaceful Joy",
-    "artist": "Sander Von",
-    "duration_ms": 157632,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:6U20TztvUrp7ccU75MAvIX",
-    "name": "Before We Knew",
-    "artist": "Eigil Leuc",
-    "duration_ms": 166479,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:6X9DrQLnANiUyPEZxq5f1L",
-    "name": "Signs",
-    "artist": "Cole Neumann",
-    "duration_ms": 126383,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:3Cyslf8Sbb2MhISVhfI9Pw",
-    "name": "At Rest",
-    "artist": "Waylen Orson",
-    "duration_ms": 138607,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:55k2hCElfUZ8VBWbKhDEXY",
-    "name": "Tides of Silence",
-    "artist": "Skaresnø",
-    "duration_ms": 198102,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:5vh2NNTsI6A5pvc9GaYbj7",
-    "name": "Roots And Rain",
-    "artist": "Rowan Elyse",
-    "duration_ms": 163721,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:4kSZ5gosHZpbm6bAPyuEHp",
-    "name": "Anemon",
-    "artist": "Blake Hollow",
-    "duration_ms": 186172,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:56NmfJ5mToggy7ZTmEF6Mb",
-    "name": "Circling",
-    "artist": "Jan Holdsworth",
-    "duration_ms": 158124,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:6jbNt6gowy5n98oiNTCQFC",
-    "name": "Edge of Sleep",
-    "artist": "Dalby",
-    "duration_ms": 165524,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:3wmNRYEkBD8NRsnmrtIbeI",
-    "name": "Serenade of Silence",
-    "artist": "Joseph Fina",
-    "duration_ms": 127313,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:5immm1R7IE8llwGusuJJ7g",
-    "name": "Apples and Oranges",
-    "artist": "Ren Lockhart",
-    "duration_ms": 199923,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:0BDaM0EnJiCl6jmWAIERk3",
-    "name": "Arbor",
-    "artist": "Samuel Kees",
-    "duration_ms": 155500,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:3932goXgKPODhBKfAIaeuo",
-    "name": "Last Light",
-    "artist": "Alexandru Andrei Popescu",
-    "duration_ms": 151111,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:0mhzqS1uEIQm49i8yH7eUh",
-    "name": "In the Quiet Hours",
-    "artist": "Harmonic Reverie",
-    "duration_ms": 199099,
+    "uri": "spotify:track:4YshxqoJx1FabSZY7hTSDl",
+    "name": "After Behind",
+    "artist": "Martes Fiore",
+    "duration_ms": 135500,
     "explicit": false
    },
    {
@@ -653,6 +568,104 @@
     "explicit": false
    },
    {
+    "uri": "spotify:track:7grvfZ55ccHnQNhay3cVwK",
+    "name": "Totem",
+    "artist": "Eldur Hættu",
+    "duration_ms": 161092,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:7riO7i4L4lBTjqrkuu4sTv",
+    "name": "In the Stars",
+    "artist": "Jeremy Mayfield",
+    "duration_ms": 156308,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:0ZwtjxyinvQPJy8dZGMXwo",
+    "name": "Three Sleeping Owls",
+    "artist": "Polly Carter",
+    "duration_ms": 123250,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:2l7ROj2BBqVGrIQdVe68vS",
+    "name": "Unvergesslich",
+    "artist": "Lester Dann",
+    "duration_ms": 145542,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:4oKCvwy2l6AscLtYB4BHlE",
+    "name": "Norvind",
+    "artist": "Waylen Orson",
+    "duration_ms": 145822,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:3LkQZrx4ozjCE1RxHON6Bc",
+    "name": "Veloura",
+    "artist": "Waylen Orson",
+    "duration_ms": 146718,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:3rVwDrLrVPL5igVD1jdInR",
+    "name": "A Moment of Peace",
+    "artist": "Joseph Fina",
+    "duration_ms": 134114,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:2ESAE30bJPEvyvfDE5oh1T",
+    "name": "Silent Bloom",
+    "artist": "Aquilegia",
+    "duration_ms": 130181,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:0BDaM0EnJiCl6jmWAIERk3",
+    "name": "Arbor",
+    "artist": "Samuel Kees",
+    "duration_ms": 155500,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:2OyKrptIfiqSpCHwA7ACq6",
+    "name": "Playthings",
+    "artist": "Silvenna",
+    "duration_ms": 171090,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:14ef9hqfpbc1aLkDs9gnf8",
+    "name": "Silent Currents",
+    "artist": "Sine Hats",
+    "duration_ms": 122808,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:6niIx0QbmKwJFk5H2vv9DT",
+    "name": "Light in Silence",
+    "artist": "Isidorus",
+    "duration_ms": 124632,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:7CnJGgpjB9tbBkUzNKlH6u",
+    "name": "Before Nightfall",
+    "artist": "Joseph Pichon",
+    "duration_ms": 130655,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:5immm1R7IE8llwGusuJJ7g",
+    "name": "Apples and Oranges",
+    "artist": "Ren Lockhart",
+    "duration_ms": 199923,
+    "explicit": false
+   },
+   {
     "uri": "spotify:track:12CHYifZr1nmh6andRykpi",
     "name": "Prato Di Girasoli",
     "artist": "Nascondiglio",
@@ -660,17 +673,38 @@
     "explicit": false
    },
    {
+    "uri": "spotify:track:4RaG5enBGhICIVQMaxojd9",
+    "name": "Morning Finds Us",
+    "artist": "Andrei Mizi",
+    "duration_ms": 136180,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:5LAptbUhdbsbUUhoV3Q1Oy",
+    "name": "Daydream",
+    "artist": "Henry Flower",
+    "duration_ms": 141863,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:3BNfBGWpsyOF3JPl1QxfkQ",
+    "name": "At The Edge Of Light",
+    "artist": "Arlo Thiem",
+    "duration_ms": 163500,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:6K4uQfVY4NGXQXx9Gq8LQa",
+    "name": "Cellar",
+    "artist": "Silvenna",
+    "duration_ms": 163500,
+    "explicit": false
+   },
+   {
     "uri": "spotify:track:2yssn38qENJXqRlnmxcVzB",
     "name": "Choose your battles",
     "artist": "Christian Janssen",
     "duration_ms": 131152,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:2hSUqh1OczGasf8R2Oz1lj",
-    "name": "Echoes of You",
-    "artist": "Friedrich Hahn",
-    "duration_ms": 171503,
     "explicit": false
    }
   ]
@@ -684,27 +718,146 @@
    "37i9dQZF1DX0SM0LYsmbMT",
    "37i9dQZF1DWVqfgj8NZEp1"
   ],
-  "duree_min": 161,
+  "duree_min": 164,
   "titres": [
    {
-    "uri": "spotify:track:0HAgbLozyKkmx5iUU5GfQH",
-    "name": "Happy Inside",
-    "artist": "Toti Cisneros",
-    "duration_ms": 112207,
+    "uri": "spotify:track:71hsXyvmjTahqj1eqP6tBw",
+    "name": "chrome",
+    "artist": "Mozzie",
+    "duration_ms": 135384,
     "explicit": false
    },
    {
-    "uri": "spotify:track:4b58VZ1BNiveCt80fHMmto",
-    "name": "Isfahan",
-    "artist": "Brandon Sanders",
-    "duration_ms": 323986,
+    "uri": "spotify:track:5Iv2VlYp4ehVVPgjc3Lv25",
+    "name": "Here's That Rainy Day",
+    "artist": "Danny Grissett",
+    "duration_ms": 321200,
     "explicit": false
    },
    {
-    "uri": "spotify:track:1WygPWqmNs4s2fxtjmtI3O",
-    "name": "Young And Foolish",
+    "uri": "spotify:track:6yKkA8HzwWTZ5taIMaG4Nm",
+    "name": "My Foolish Heart",
+    "artist": "Bill Evans Trio",
+    "duration_ms": 297320,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:6FYov310AKnSnsy47ZABsg",
+    "name": "النيل ده نيلنا",
+    "artist": "Amr Mostafa, Ahmed Gamal, Rachel Magoola",
+    "duration_ms": 193088,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:6zzjV6U7fA9Wxy4ILyixgQ",
+    "name": "Edges Of Happiness",
+    "artist": "Tord Gustavsen Trio",
+    "duration_ms": 183933,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:4uHs6lzwhomDJd7yEWUJXW",
+    "name": "Alia's Abandon",
+    "artist": "Mammal Hands",
+    "duration_ms": 262960,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:73ik3a517Lz2W7eLWejapJ",
+    "name": "Exit Music",
+    "artist": "Brad Mehldau",
+    "duration_ms": 263933,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:1HKZo7knu3IuCJo9JVGz1i",
+    "name": "Believe, Beleft, Below",
+    "artist": "Esbjörn Svensson Trio",
+    "duration_ms": 291226,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:3L4lHBy6v9QPDyep6H7lFm",
+    "name": "Worn Out",
+    "artist": "Donkeychote, Cutecake",
+    "duration_ms": 103764,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:2AhYzjpByjU3RKc0FEpAuZ",
+    "name": "The Path",
+    "artist": "Rasmus H Thomsen Trio",
+    "duration_ms": 144246,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:3f9KhpRN6mMYoVnpuozgHD",
+    "name": "Gary's Theme - Remastered 2003",
     "artist": "Bill Evans",
-    "duration_ms": 354666,
+    "duration_ms": 257693,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:1tbzRQCZUoKYMCxzK0Jx5p",
+    "name": "Stolen Moments",
+    "artist": "Ahmad Jamal Trio",
+    "duration_ms": 392026,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:3Tx609w6szOPbdas8CYdSt",
+    "name": "Being There",
+    "artist": "Tord Gustavsen Trio",
+    "duration_ms": 251373,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:0pcxvYCWcYn4FOlRM5aoW9",
+    "name": "Don’t Go",
+    "artist": "GoGo Penguin",
+    "duration_ms": 219285,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:6Thu4R6H7FbA3vQWgNi1yV",
+    "name": "Quiet Fire",
+    "artist": "Mammal Hands",
+    "duration_ms": 400352,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:5Y2iKc41aFa1rIG6vOIClH",
+    "name": "Between the Bars",
+    "artist": "Brad Mehldau",
+    "duration_ms": 301561,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:35CNi2g5eqqwvfoAdJtjpp",
+    "name": "Elevation of Love",
+    "artist": "Esbjörn Svensson Trio",
+    "duration_ms": 403666,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:3ohEcXhu9VOX7T3yKsTrhL",
+    "name": "Hope",
+    "artist": "Krynoze, MAS",
+    "duration_ms": 123569,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:5Oou7wtzfaAiXyjWPnrszM",
+    "name": "Lonely Woman",
+    "artist": "Jakob Dinesen",
+    "duration_ms": 249685,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:1XCBWtTJZuHbwa6GLUutjo",
+    "name": "But Beautiful",
+    "artist": "Stan Getz, Bill Evans",
+    "duration_ms": 280840,
     "explicit": false
    },
    {
@@ -722,73 +875,10 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:0pcxvYCWcYn4FOlRM5aoW9",
-    "name": "Don’t Go",
+    "uri": "spotify:track:6V77yOT0klYsDdbRkUV9TW",
+    "name": "Raven",
     "artist": "GoGo Penguin",
-    "duration_ms": 219285,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:2ONAQaP6J7NsOcDkBefx8G",
-    "name": "Four Flowers",
-    "artist": "Mammal Hands",
-    "duration_ms": 288266,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:03ROovwUXaNnstUIBq7a6K",
-    "name": "Fourteen Reveries: 7",
-    "artist": "Brad Mehldau",
-    "duration_ms": 195226,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:3gtrFzEJG9PWPpsII0jJnQ",
-    "name": "When Everyone Has Gone",
-    "artist": "Esbjörn Svensson Trio",
-    "duration_ms": 403026,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:3CrwuTDI5YwuPJhUZrG6vg",
-    "name": "canvas",
-    "artist": "skrn, Kylan",
-    "duration_ms": 137142,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:6WiEePQj4vpxIG3numshuj",
-    "name": "A Place To Hide",
-    "artist": "Ola W Jansson, W JAZZ TRIO",
-    "duration_ms": 147668,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:1cpANF6zMBoFoxkoIjZHjv",
-    "name": "Skating In Central Park",
-    "artist": "Bill Evans, Jim Hall",
-    "duration_ms": 324200,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:086RZ0U22i29HR5bj0sWSB",
-    "name": "For All We Know",
-    "artist": "Ahmad Jamal",
-    "duration_ms": 167693,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:16w6mm1Wg1dD9Nqkl720O0",
-    "name": "Stream",
-    "artist": "Tord Gustavsen Trio",
-    "duration_ms": 423813,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:44sVjpF0mlDAQzRnf2HdTy",
-    "name": "Kamaloka",
-    "artist": "GoGo Penguin",
-    "duration_ms": 320957,
+    "duration_ms": 297538,
     "explicit": false
    },
    {
@@ -806,94 +896,31 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:2LWgZdgAkvsflq6KulK9c2",
-    "name": "4:00 AM",
+    "uri": "spotify:track:3gtrFzEJG9PWPpsII0jJnQ",
+    "name": "When Everyone Has Gone",
     "artist": "Esbjörn Svensson Trio",
-    "duration_ms": 330000,
+    "duration_ms": 403026,
     "explicit": false
    },
    {
-    "uri": "spotify:track:489OiHYbTILQSOAYcskBKB",
-    "name": "Messing Around",
-    "artist": "Gabb.",
-    "duration_ms": 105000,
+    "uri": "spotify:track:7H0SDCXhNavoDM9EIcrozN",
+    "name": "Playground",
+    "artist": "Harry Hawaii, Steve Chops",
+    "duration_ms": 120000,
     "explicit": false
    },
    {
-    "uri": "spotify:track:14PJHPxEeFoJ26nhOV27D4",
-    "name": "Some Other Time",
-    "artist": "Chad Lefkowitz-Brown",
-    "duration_ms": 462626,
+    "uri": "spotify:track:78pcTFrKHHttuJedO00g8j",
+    "name": "It's You I Like",
+    "artist": "Mason Embry Trio",
+    "duration_ms": 286666,
     "explicit": false
    },
    {
-    "uri": "spotify:track:6yKkA8HzwWTZ5taIMaG4Nm",
-    "name": "My Foolish Heart",
-    "artist": "Bill Evans Trio",
-    "duration_ms": 297320,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:1tbzRQCZUoKYMCxzK0Jx5p",
-    "name": "Stolen Moments",
-    "artist": "Ahmad Jamal Trio",
-    "duration_ms": 392026,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:5e4pjbR6UsKQE9fvWmQRkw",
-    "name": "Where Breathing Starts",
-    "artist": "Tord Gustavsen Trio",
-    "duration_ms": 529200,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:0P6rmbD8668dVimhlX1afA",
-    "name": "GBFISYSIH",
-    "artist": "GoGo Penguin",
-    "duration_ms": 201880,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:6Thu4R6H7FbA3vQWgNi1yV",
-    "name": "Quiet Fire",
-    "artist": "Mammal Hands",
-    "duration_ms": 400352,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:2BK23lRQlbNl6OqBlYL2tJ",
-    "name": "Fantasy for Piano",
-    "artist": "Brad Mehldau",
-    "duration_ms": 671946,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:1HKZo7knu3IuCJo9JVGz1i",
-    "name": "Believe, Beleft, Below",
-    "artist": "Esbjörn Svensson Trio",
-    "duration_ms": 291226,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:604BAQOd2ZXTnQkVIUKK1c",
-    "name": "Wind",
-    "artist": "Jost Esser, The Flipside",
-    "duration_ms": 130500,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:7a4Pzn2ppZP1GNLyrgL4J8",
-    "name": "We'll Be Together Again",
-    "artist": "Copenhagen Jazzexperience, Jacob Christoffersen, Claus Waidtløw",
-    "duration_ms": 308193,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:1XCBWtTJZuHbwa6GLUutjo",
-    "name": "But Beautiful",
-    "artist": "Stan Getz, Bill Evans",
-    "duration_ms": 280840,
+    "uri": "spotify:track:58yFroDNbzHpYzvicaC0de",
+    "name": "Peace Piece",
+    "artist": "Bill Evans",
+    "duration_ms": 404160,
     "explicit": false
    },
    {
@@ -904,10 +931,45 @@
     "explicit": false
    },
    {
+    "uri": "spotify:track:1KvAc16nNqXGgOXABbV1sA",
+    "name": "Branches Break",
+    "artist": "GoGo Penguin",
+    "duration_ms": 262653,
+    "explicit": false
+   },
+   {
     "uri": "spotify:track:4J4ZBdkwfS3DCnLVPsJowU",
     "name": "And I Love Her",
     "artist": "Brad Mehldau Trio",
     "duration_ms": 565480,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:2xjiEAWpBAOzrW23LNTBH6",
+    "name": "Missed The Bus",
+    "artist": "Drxnk, Sátyr",
+    "duration_ms": 99397,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:5m5k5wCQiXimPD5V4ik6VN",
+    "name": "A Flower Is a Lovesome Thing",
+    "artist": "Gathering in Jazz, Claus Waidtløw, Heine Hansen, Anders Mogensen",
+    "duration_ms": 285969,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:1cpANF6zMBoFoxkoIjZHjv",
+    "name": "Skating In Central Park",
+    "artist": "Bill Evans, Jim Hall",
+    "duration_ms": 324200,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:4MIPpjKWw1lLVwS6tLhis1",
+    "name": "I Love Music",
+    "artist": "Ahmad Jamal Trio",
+    "duration_ms": 442440,
     "explicit": false
    }
   ]
@@ -920,13 +982,13 @@
   "sources": [
    "37i9dQZF1DWWQRwui0ExPn"
   ],
-  "duree_min": 162,
+  "duree_min": 161,
   "titres": [
    {
-    "uri": "spotify:track:49636TkDwGy7E8lOFni5pn",
-    "name": "Acorn",
-    "artist": "TimberRidge",
-    "duration_ms": 150000,
+    "uri": "spotify:track:0Txm2gWXeMUQ7pJDsNP4SP",
+    "name": "hoodies on",
+    "artist": "general groove",
+    "duration_ms": 140571,
     "explicit": false
    },
    {
@@ -937,80 +999,10 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:0rNpm25xLsckCS9JPAgpwP",
-    "name": "With U",
-    "artist": "SwuM, Idealism",
-    "duration_ms": 218666,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:2TTlbzX6WXoWeiixpxW7Ry",
-    "name": "Paradise",
-    "artist": "Kupla",
-    "duration_ms": 192598,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:6xdrpBLqPst4Z5K7eJU44J",
-    "name": "MATADORA - Slowed",
-    "artist": "DJ Asul",
-    "duration_ms": 99468,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:4YQ9eduJmOszd4pqiU6u5Z",
-    "name": "No Regrets",
-    "artist": "Samuraj",
-    "duration_ms": 137142,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:5Lc1ljefpvGTlbqxWt5JiX",
-    "name": "Luv (sic) Grand Finale",
-    "artist": "Nujabes, Shing02",
-    "duration_ms": 316760,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:3Ia8xPrenzG3huEeqv8UwY",
-    "name": "Evenings",
+    "uri": "spotify:track:6cufomJu4w7bQEUGctpDf9",
+    "name": "dont say a word",
     "artist": "Idealism",
-    "duration_ms": 121481,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:2Rpq2EqWgryXSUYGpXld5m",
-    "name": "Herewego",
-    "artist": "Jinsang",
-    "duration_ms": 136673,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:0Ez0HcZneugrMqIYjlmBFR",
-    "name": "Never Forget",
-    "artist": "Kupla",
-    "duration_ms": 112519,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:62QKQ1q60ia1JdRq3z5QLe",
-    "name": "KILLA",
-    "artist": "YOASOBI",
-    "duration_ms": 184584,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:3AAfTHI6SiBDOUAEVgBV2m",
-    "name": "embrace",
-    "artist": "Bcalm, jaackson",
-    "duration_ms": 118356,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:0TQNxWHjajqnWAhvEt2xf6",
-    "name": "Luv (sic) pt2",
-    "artist": "Nujabes, Shing02",
-    "duration_ms": 275440,
+    "duration_ms": 144000,
     "explicit": false
    },
    {
@@ -1021,73 +1013,10 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:2s9K1zFJ1pPtrkVBdeFqc6",
-    "name": "Untold",
-    "artist": "Jinsang",
-    "duration_ms": 95144,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:3wgXGRoHuXYfcgzMZvIIti",
-    "name": "Lavender",
-    "artist": "Kupla, Lofi Girl",
-    "duration_ms": 154817,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:4epspKCIRAXJozEvfs5l2c",
-    "name": "where did the time go",
-    "artist": "Laffey, Aso",
-    "duration_ms": 158565,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:6WdNN4L7fx7PvRYUDqzvdu",
-    "name": "Hold On",
-    "artist": "Elpida",
-    "duration_ms": 152000,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:3WjR4m2n9ekkFIYdl0qI3I",
-    "name": "nagashi (feat. Idealism)",
-    "artist": "Kaelor, Avarosa, Idealism",
-    "duration_ms": 109923,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:0OKYMc68Fb9kF5SeUhlFWp",
-    "name": "Smoking at Midnight",
-    "artist": "Tomppabeats",
-    "duration_ms": 95921,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:133efoU2r8jrg2SDEQodVS",
-    "name": "slumpin",
-    "artist": "Jinsang",
-    "duration_ms": 169951,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:2gs8yXGK03DCsVEYXyQSkH",
-    "name": "NO ERA AMOR - Super Slowed",
-    "artist": "DJ Asul",
-    "duration_ms": 104464,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:0Txm2gWXeMUQ7pJDsNP4SP",
-    "name": "hoodies on",
-    "artist": "general groove",
-    "duration_ms": 140571,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:6o7phyVV9ywtZ48SUd9BbI",
-    "name": "ikigai",
-    "artist": "Idealism",
-    "duration_ms": 149610,
+    "uri": "spotify:track:6AZ1AQQLNZ2IO8niMTrETv",
+    "name": "Endurance",
+    "artist": "Kupla",
+    "duration_ms": 201137,
     "explicit": false
    },
    {
@@ -1098,17 +1027,31 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:2Num0oPkpSxW9vtyffMi9b",
-    "name": "bike ride",
-    "artist": "herbstreit",
-    "duration_ms": 145000,
+    "uri": "spotify:track:3QcL5t2oQMlQwPAc79FHD5",
+    "name": "Nightingale",
+    "artist": "burdee",
+    "duration_ms": 135833,
     "explicit": false
    },
    {
-    "uri": "spotify:track:6cufomJu4w7bQEUGctpDf9",
-    "name": "dont say a word",
-    "artist": "Idealism",
-    "duration_ms": 144000,
+    "uri": "spotify:track:7JGLv2GbS3HSVoMKo3WaWG",
+    "name": "reflection eternal",
+    "artist": "Nujabes",
+    "duration_ms": 260253,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:0OKYMc68Fb9kF5SeUhlFWp",
+    "name": "Smoking at Midnight",
+    "artist": "Tomppabeats",
+    "duration_ms": 95921,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:23Dj9oKS1wpNVK0SA9Ex1X",
+    "name": "Otherside of Earth",
+    "artist": "Kupla, less.people",
+    "duration_ms": 162500,
     "explicit": false
    },
    {
@@ -1119,73 +1062,45 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:24tJo4qmbMRUs1WdKcUq7B",
-    "name": "hold on",
-    "artist": "Sid Southside",
-    "duration_ms": 139541,
+    "uri": "spotify:track:36D5ASPvyCKrlupEBVxS1g",
+    "name": "first holiday",
+    "artist": "mutedvibes",
+    "duration_ms": 113859,
     "explicit": false
    },
    {
-    "uri": "spotify:track:1GErEOl5hPy0b2nsAr1x3k",
-    "name": "stopmotion",
-    "artist": "wuy-wuy",
-    "duration_ms": 144750,
+    "uri": "spotify:track:0TQNxWHjajqnWAhvEt2xf6",
+    "name": "Luv (sic) pt2",
+    "artist": "Nujabes, Shing02",
+    "duration_ms": 275440,
     "explicit": false
    },
    {
-    "uri": "spotify:track:4P9dcpJS1LoRKIQVfAMgUO",
-    "name": "Lumi",
-    "artist": "wester bunny",
-    "duration_ms": 137395,
+    "uri": "spotify:track:0rNpm25xLsckCS9JPAgpwP",
+    "name": "With U",
+    "artist": "SwuM, Idealism",
+    "duration_ms": 218666,
     "explicit": false
    },
    {
-    "uri": "spotify:track:5YTTwd9EIF9regy0Ejg74e",
-    "name": "Twofortyfive on a Tuesday",
-    "artist": "Osian Lewis",
-    "duration_ms": 145161,
+    "uri": "spotify:track:2s9K1zFJ1pPtrkVBdeFqc6",
+    "name": "Untold",
+    "artist": "Jinsang",
+    "duration_ms": 95144,
     "explicit": false
    },
    {
-    "uri": "spotify:track:50qVnHKZRO4er4D82zBuMe",
-    "name": "morning sight",
-    "artist": "Zupa Fitz",
-    "duration_ms": 145356,
+    "uri": "spotify:track:03bCn8SLZw7F48oIVYA0pF",
+    "name": "Kingdom in Blue",
+    "artist": "Kupla",
+    "duration_ms": 201154,
     "explicit": false
    },
    {
-    "uri": "spotify:track:2N6gkUBspVwpvYiu8ogtkr",
-    "name": "apricity",
-    "artist": "Mondo Loops",
-    "duration_ms": 128955,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:73y3EybtsSszrRDsiVLmUN",
-    "name": "Currents",
-    "artist": "Hoogway, HoKø",
-    "duration_ms": 155670,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:2iHa9HTZqVoLeGv19VJuz7",
-    "name": "Fan Season",
-    "artist": "Unmade Bed",
-    "duration_ms": 127125,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:69AT3zGrT8dl2hSQPActta",
-    "name": "Flave",
-    "artist": "weightless minutes",
-    "duration_ms": 120020,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:5wZ9NWrX5w8nHTso9C5Sor",
-    "name": "Lilac",
-    "artist": "tatsuo",
-    "duration_ms": 137410,
+    "uri": "spotify:track:6xdrpBLqPst4Z5K7eJU44J",
+    "name": "MATADORA - Slowed",
+    "artist": "DJ Asul",
+    "duration_ms": 99468,
     "explicit": false
    },
    {
@@ -1196,143 +1111,52 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:1euM1QxLrWsCiJmFLzwiEM",
-    "name": "Halcyon",
-    "artist": "Yax Keyon",
-    "duration_ms": 140300,
+    "uri": "spotify:track:6o7phyVV9ywtZ48SUd9BbI",
+    "name": "ikigai",
+    "artist": "Idealism",
+    "duration_ms": 149610,
     "explicit": false
    },
    {
-    "uri": "spotify:track:0z4hZnfyYaI62mrPMqvFid",
-    "name": "ditto",
-    "artist": "Collinsworthy",
-    "duration_ms": 147267,
+    "uri": "spotify:track:2Um9tmCi9tFtpDq124BZZi",
+    "name": "Quiet",
+    "artist": "Jinsang",
+    "duration_ms": 133134,
     "explicit": false
    },
    {
-    "uri": "spotify:track:1qmm8sVryJHUzJSnPccxsM",
-    "name": "late june",
-    "artist": "slowburn",
-    "duration_ms": 138205,
+    "uri": "spotify:track:2gs8yXGK03DCsVEYXyQSkH",
+    "name": "NO ERA AMOR - Super Slowed",
+    "artist": "DJ Asul",
+    "duration_ms": 104464,
     "explicit": false
    },
    {
-    "uri": "spotify:track:2OmiatvHLBxMtsavSMikPK",
-    "name": "Bittersweet",
-    "artist": "Yax Keyon",
-    "duration_ms": 164594,
+    "uri": "spotify:track:5iwzIBnwk556Ahx63S7zPq",
+    "name": "lily pond",
+    "artist": "nearly monday",
+    "duration_ms": 132124,
     "explicit": false
    },
    {
-    "uri": "spotify:track:4Ekma2XsSu0szIvicDUtTw",
-    "name": "Airen",
-    "artist": "Yasumi",
-    "duration_ms": 123378,
+    "uri": "spotify:track:3Ia8xPrenzG3huEeqv8UwY",
+    "name": "Evenings",
+    "artist": "Idealism",
+    "duration_ms": 121481,
     "explicit": false
    },
    {
-    "uri": "spotify:track:6VMqcxdFLOmhi5e9hYJrSo",
-    "name": "remnants of us",
-    "artist": "Kichiro",
-    "duration_ms": 129523,
+    "uri": "spotify:track:133efoU2r8jrg2SDEQodVS",
+    "name": "slumpin",
+    "artist": "Jinsang",
+    "duration_ms": 169951,
     "explicit": false
    },
    {
-    "uri": "spotify:track:3BFlgrffvIkndTpxxRfIiq",
-    "name": "things we see",
-    "artist": "mutedvibes",
-    "duration_ms": 147098,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:7h2GLHkRjw8FIQE77vigfL",
-    "name": "back to you",
-    "artist": "mutedvibes",
-    "duration_ms": 118734,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:4eZZ8k8pePalcnq2NtzTwU",
-    "name": "Cloud Nine",
-    "artist": "Nostalgique",
-    "duration_ms": 127250,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:3LMlRPBUx6FD0mn0SWXXFz",
-    "name": "Timeless",
-    "artist": "softwaves",
-    "duration_ms": 147692,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:36D5ASPvyCKrlupEBVxS1g",
-    "name": "first holiday",
-    "artist": "mutedvibes",
-    "duration_ms": 113859,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:0XXWjwdIT7rk4eaUIoxTRc",
-    "name": "Tidals",
-    "artist": "Big Baz",
-    "duration_ms": 150857,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:6hE5xBJMukLD5uHiru5C3K",
-    "name": "Oasis",
-    "artist": "tatsuo",
-    "duration_ms": 154025,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:5f9AzKkdFz80bDE3bf4X36",
-    "name": "small changes",
-    "artist": "Lenny Loops, Notation",
-    "duration_ms": 130750,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:4ViH5PC5d5Ajo6Omw7RkFl",
-    "name": "steep",
-    "artist": "mellowkey",
-    "duration_ms": 125685,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:17zajmB2gnQiCPx20NPBRl",
-    "name": "Charly",
-    "artist": "nurse noir",
-    "duration_ms": 139668,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:3bgxCaydVu3k2jhKCjmFHv",
-    "name": "open door",
-    "artist": "stillnote",
-    "duration_ms": 120500,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:7LkVzAKTL1JiCVGvsttdat",
-    "name": "evening walk",
-    "artist": "le gronk",
-    "duration_ms": 150766,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:5glYDYBlIbDRk2Bg0t3KA2",
-    "name": "Porchlight",
-    "artist": "Hazy Letters",
-    "duration_ms": 127482,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:7clmICpOL6Z9L2Bh7ikWo9",
-    "name": "Promise",
-    "artist": "amies",
-    "duration_ms": 178380,
+    "uri": "spotify:track:4epspKCIRAXJozEvfs5l2c",
+    "name": "where did the time go",
+    "artist": "Laffey, Aso",
+    "duration_ms": 158565,
     "explicit": false
    },
    {
@@ -1343,10 +1167,38 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:3CpfWlEyPESnAXHktBT4NU",
-    "name": "pocket garden",
-    "artist": "Lenny Loops, Sleepermane",
-    "duration_ms": 133350,
+    "uri": "spotify:track:3WjR4m2n9ekkFIYdl0qI3I",
+    "name": "nagashi (feat. Idealism)",
+    "artist": "Kaelor, Avarosa, Idealism",
+    "duration_ms": 109923,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:62QKQ1q60ia1JdRq3z5QLe",
+    "name": "KILLA",
+    "artist": "YOASOBI",
+    "duration_ms": 184584,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:57OdICxHS8j1P8pjPkQSab",
+    "name": "dreamfall",
+    "artist": "Kichiro, Krynoze, Pepper",
+    "duration_ms": 153600,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:3xP7lWTHXSqR7hSprSjlIi",
+    "name": "merrihew's",
+    "artist": "le gronk",
+    "duration_ms": 144000,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:7hqX6zd1aPRtCUcPYd0HfZ",
+    "name": "bolmen",
+    "artist": "wuy-wuy",
+    "duration_ms": 135821,
     "explicit": false
    },
    {
@@ -1357,17 +1209,31 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:2lW1VdIBkSCRppgESsfInm",
-    "name": "Until the Sky Turns Blue",
-    "artist": "Slow Koi",
-    "duration_ms": 131919,
+    "uri": "spotify:track:2skt0OfeeSYe26ZcA5wSn4",
+    "name": "Northside",
+    "artist": "Dosi, Hoogway",
+    "duration_ms": 150000,
     "explicit": false
    },
    {
-    "uri": "spotify:track:49jQBja44SHATWz77M9Res",
-    "name": "My Secret Hideout",
-    "artist": "Samuraj",
-    "duration_ms": 131076,
+    "uri": "spotify:track:2HD94Pq4TL2ITkusTcErmu",
+    "name": "The Return",
+    "artist": "Mark Rich",
+    "duration_ms": 128000,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:5gymZLspf7mobomsPXxESe",
+    "name": "Slick",
+    "artist": "Spring Bingo",
+    "duration_ms": 164545,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:4wdwpKxSIXA9a9TbAmAUL0",
+    "name": "Calling",
+    "artist": "shawn pink",
+    "duration_ms": 100838,
     "explicit": false
    },
    {
@@ -1378,6 +1244,48 @@
     "explicit": false
    },
    {
+    "uri": "spotify:track:4y3mdViy762R955psB5OhT",
+    "name": "Quietude",
+    "artist": "Rainbows & Clouds",
+    "duration_ms": 162000,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:2N6gkUBspVwpvYiu8ogtkr",
+    "name": "apricity",
+    "artist": "Mondo Loops",
+    "duration_ms": 128955,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:0CgyaWJe6NgqkiLX8y7WMr",
+    "name": "nostalgic nights",
+    "artist": "blissi bo",
+    "duration_ms": 107826,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:5wZ9NWrX5w8nHTso9C5Sor",
+    "name": "Lilac",
+    "artist": "tatsuo",
+    "duration_ms": 137410,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:69AT3zGrT8dl2hSQPActta",
+    "name": "Flave",
+    "artist": "weightless minutes",
+    "duration_ms": 120020,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:5m2Qphg7XXd7LVKqkH3BDi",
+    "name": "slow sunday",
+    "artist": "adrift",
+    "duration_ms": 130217,
+    "explicit": false
+   },
+   {
     "uri": "spotify:track:06abehrlDCUMJ2k8qstWW4",
     "name": "Red Maple",
     "artist": "steezy prime, luv pug",
@@ -1385,10 +1293,164 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:39FltUuMX7sBgt7D05diVP",
-    "name": "by the sea",
-    "artist": "Papi Pier",
-    "duration_ms": 127656,
+    "uri": "spotify:track:2OmiatvHLBxMtsavSMikPK",
+    "name": "Bittersweet",
+    "artist": "Yax Keyon",
+    "duration_ms": 164594,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:5YTTwd9EIF9regy0Ejg74e",
+    "name": "Twofortyfive on a Tuesday",
+    "artist": "Osian Lewis",
+    "duration_ms": 145161,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:6pT81M71DNyBesly4Of5PD",
+    "name": "flip phone",
+    "artist": "mr. regular",
+    "duration_ms": 117200,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:49636TkDwGy7E8lOFni5pn",
+    "name": "Acorn",
+    "artist": "TimberRidge",
+    "duration_ms": 150000,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:3AAfTHI6SiBDOUAEVgBV2m",
+    "name": "embrace",
+    "artist": "Bcalm, jaackson",
+    "duration_ms": 118356,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:1euM1QxLrWsCiJmFLzwiEM",
+    "name": "Halcyon",
+    "artist": "Yax Keyon",
+    "duration_ms": 140300,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:4eZZ8k8pePalcnq2NtzTwU",
+    "name": "Cloud Nine",
+    "artist": "Nostalgique",
+    "duration_ms": 127250,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:2hTmVvP1LNcfqPp15kUTVA",
+    "name": "Quiet Days",
+    "artist": "SunShun, mellow days",
+    "duration_ms": 109000,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:4P9dcpJS1LoRKIQVfAMgUO",
+    "name": "Lumi",
+    "artist": "wester bunny",
+    "duration_ms": 137395,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:3BFlgrffvIkndTpxxRfIiq",
+    "name": "things we see",
+    "artist": "mutedvibes",
+    "duration_ms": 147098,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:2iHa9HTZqVoLeGv19VJuz7",
+    "name": "Fan Season",
+    "artist": "Unmade Bed",
+    "duration_ms": 127125,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:1CWefHKcQFzEIehpvCkU3Q",
+    "name": "Forage",
+    "artist": "Banks, Ptr.",
+    "duration_ms": 147945,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:24tJo4qmbMRUs1WdKcUq7B",
+    "name": "hold on",
+    "artist": "Sid Southside",
+    "duration_ms": 139541,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:2rIurEgEKSoG6asnpUf1s3",
+    "name": "still becoming",
+    "artist": "Slowheal",
+    "duration_ms": 138947,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:1Js9cTByK8nBEcAoJpnugM",
+    "name": "halation",
+    "artist": "Mondo Loops",
+    "duration_ms": 133333,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:5UdRPuUEF2PqqZo60Zra3j",
+    "name": "Colors",
+    "artist": "Juliàn",
+    "duration_ms": 143157,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:4Ekma2XsSu0szIvicDUtTw",
+    "name": "Airen",
+    "artist": "Yasumi",
+    "duration_ms": 123378,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:5Y4xIiKuNFbMcZV5saKHJW",
+    "name": "more love",
+    "artist": "emptydream.",
+    "duration_ms": 120000,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:7yItv8oYAKUQ5EhCmeVdNl",
+    "name": "i see you",
+    "artist": "haywrd",
+    "duration_ms": 169250,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:6WdNN4L7fx7PvRYUDqzvdu",
+    "name": "Hold On",
+    "artist": "Elpida",
+    "duration_ms": 152000,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:7LkVzAKTL1JiCVGvsttdat",
+    "name": "evening walk",
+    "artist": "le gronk",
+    "duration_ms": 150766,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:5W8LaDTj6jIMfMv1EmeBOM",
+    "name": "Hike in Yosemite",
+    "artist": "Valgre",
+    "duration_ms": 144500,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:4dY3vuyx7wKy4maFikjxAp",
+    "name": "passing hours",
+    "artist": "Gabb., Maple Sleep",
+    "duration_ms": 117333,
     "explicit": false
    }
   ]
@@ -1403,48 +1465,41 @@
    "37i9dQZF1DX3Ogo9pFvBkY",
    "4iGAttKqCR2Jg9kl2cUiBq"
   ],
-  "duree_min": 175,
+  "duree_min": 173,
   "titres": [
    {
-    "uri": "spotify:track:51vxIDnFJOzotXLQTrwV29",
-    "name": "Present Memory",
-    "artist": "Køsk Skriner",
-    "duration_ms": 156000,
+    "uri": "spotify:track:0pfQoBHepc5zOplOhLDgSh",
+    "name": "Lunar Waves",
+    "artist": "Asher Stone",
+    "duration_ms": 159229,
     "explicit": false
    },
    {
-    "uri": "spotify:track:2AvugcGYwiaauCwa959yVL",
-    "name": "Night Blur",
-    "artist": "Moss Halo",
-    "duration_ms": 147000,
+    "uri": "spotify:track:0jlYI0YbQxvlNwjtJQKnws",
+    "name": "Red Canna",
+    "artist": "Kal Koren",
+    "duration_ms": 140374,
     "explicit": false
    },
    {
-    "uri": "spotify:track:6OkgTaLWfE5wZgNwQB2lH0",
-    "name": "Bella's Chime",
-    "artist": "Michael Borowski",
-    "duration_ms": 128320,
+    "uri": "spotify:track:2ok8aUXIcCfXBilyxBOjkU",
+    "name": "A Promise in Bloom",
+    "artist": "Greg Maroney, Sherry Finzer",
+    "duration_ms": 346009,
     "explicit": false
    },
    {
-    "uri": "spotify:track:1aMJTyCRfxfp8luej4rjAC",
-    "name": "Spinning Away",
-    "artist": "Brian Eno, John Cale",
-    "duration_ms": 327120,
+    "uri": "spotify:track:4hx8EYJ54QzRf7KrVrNn1H",
+    "name": "Even If You're Never Awake",
+    "artist": "Stars Of The Lid",
+    "duration_ms": 560746,
     "explicit": false
    },
    {
-    "uri": "spotify:track:0QWg9GVhRxE2r72Tw7PIzF",
-    "name": "The Mouthchew, Pt. 2",
-    "artist": "Stars Of The Lid, Adam Wiltzie",
-    "duration_ms": 225586,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:1vUImkak4EASlpIcqBxkV2",
-    "name": "Quiet Sunset",
-    "artist": "Miguel Castro, Joey Stuckey, Kathy Hawkins, Leah Hammock, Adam Mitchell",
-    "duration_ms": 215000,
+    "uri": "spotify:track:2dqYago9NyGXXbfdujj9OQ",
+    "name": "Mysterium",
+    "artist": "Hammock",
+    "duration_ms": 431869,
     "explicit": false
    },
    {
@@ -1455,10 +1510,10 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:0r4FEHukFd50r43uTuYmHY",
-    "name": "First Light - Remastered 2004",
-    "artist": "Harold Budd, Brian Eno",
-    "duration_ms": 426533,
+    "uri": "spotify:track:6kaaRaJwSW0E7yWf709zej",
+    "name": "She Will Destroy You - 2024 Remaster",
+    "artist": "Cocteau Twins, Harold Budd",
+    "duration_ms": 254295,
     "explicit": false
    },
    {
@@ -1469,31 +1524,87 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:38AKv3z5kTzFFM2YC793Gg",
-    "name": "Mantra",
-    "artist": "Køsk Skriner",
-    "duration_ms": 143486,
+    "uri": "spotify:track:2pu5g2H7FrseHcmYev97bR",
+    "name": "Red Tide",
+    "artist": "Loscil",
+    "duration_ms": 325999,
     "explicit": false
    },
    {
-    "uri": "spotify:track:6wgChySvRo9Adut9SjvuQn",
-    "name": "Pure Radiation",
-    "artist": "Elias Merin",
-    "duration_ms": 156000,
+    "uri": "spotify:track:59sNMKFMr0P12WfUWA7Q5V",
+    "name": "Tau Amobea",
+    "artist": "Astral Reunion",
+    "duration_ms": 177054,
     "explicit": false
    },
    {
-    "uri": "spotify:track:7dTmEtiM7fwwMP4nbav2GW",
-    "name": "Tucana",
-    "artist": "v e n n",
-    "duration_ms": 182000,
+    "uri": "spotify:track:5vksiJnxp4drj7SFGsV3am",
+    "name": "Mist",
+    "artist": "Warmth of Muba",
+    "duration_ms": 160909,
     "explicit": false
    },
    {
-    "uri": "spotify:track:4ZknuVR2jOpMOcfwWpsuEr",
-    "name": "An Ending (Ascent) - Remastered 2019",
-    "artist": "Brian Eno",
-    "duration_ms": 264866,
+    "uri": "spotify:track:477naywDON3t1iAF4COlOV",
+    "name": "Don't Bother They're Here",
+    "artist": "Stars Of The Lid",
+    "duration_ms": 610213,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:2e32odICy2AjX3gP52JPUJ",
+    "name": "Oh the Bliss (Reinterpretation)",
+    "artist": "Hammock",
+    "duration_ms": 291016,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:4K4kedXFAuW6gn8iwgGFTw",
+    "name": "Poa Alpina",
+    "artist": "Biosphere",
+    "duration_ms": 251066,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:244AfRQzVwSOzkkRHGPWge",
+    "name": "An Arc Of Doves - Remastered 2004",
+    "artist": "Harold Budd, Brian Eno",
+    "duration_ms": 389133,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:4mBeebqJQqV6A2sy1HSH5u",
+    "name": "Sacred Space 432",
+    "artist": "369",
+    "duration_ms": 183000,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:1Mq6sII7xUXYiTKjyUp133",
+    "name": "Orange Ocean - Loscil Remix",
+    "artist": "Kodomo, Loscil",
+    "duration_ms": 460474,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:3gQEk5X2CVvVDg1I8GX55U",
+    "name": "Cracks in the sky",
+    "artist": "Fluvis",
+    "duration_ms": 157734,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:3THYxB5RPTXmjAA1dUVAnW",
+    "name": "Connected By Stars",
+    "artist": "The Nightgate",
+    "duration_ms": 181614,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:4LULsO2bqf9gmp5LJ638Xn",
+    "name": "Floating on a Silver Current",
+    "artist": "Greg Maroney, Sherry Finzer",
+    "duration_ms": 250500,
     "explicit": false
    },
    {
@@ -1511,17 +1622,17 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:4goWw3FMOePlgJENV3wGAL",
-    "name": "we've come so far together",
+    "uri": "spotify:track:58A5uqHN8qhHHPYHOSKJvs",
+    "name": "bouquet of balloons",
     "artist": "biosphere",
-    "duration_ms": 91914,
+    "duration_ms": 183703,
     "explicit": false
    },
    {
-    "uri": "spotify:track:6mnDez8mWJqlTyp6GjCKKR",
-    "name": "Why Do You Love Me?",
-    "artist": "Cocteau Twins, Harold Budd",
-    "duration_ms": 291600,
+    "uri": "spotify:track:0r4FEHukFd50r43uTuYmHY",
+    "name": "First Light - Remastered 2004",
+    "artist": "Harold Budd, Brian Eno",
+    "duration_ms": 426533,
     "explicit": false
    },
    {
@@ -1532,101 +1643,31 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:6UMEGsuc9dleFdE7JuzjqL",
-    "name": "Waves",
-    "artist": "Semi Sphere",
-    "duration_ms": 200240,
+    "uri": "spotify:track:79OPYIgwVoTemZhjcDtLfe",
+    "name": "In Threes",
+    "artist": "Loscil",
+    "duration_ms": 357773,
     "explicit": false
    },
    {
-    "uri": "spotify:track:3THYxB5RPTXmjAA1dUVAnW",
-    "name": "Connected By Stars",
-    "artist": "The Nightgate",
-    "duration_ms": 181614,
+    "uri": "spotify:track:3Pkvt5J5l2WoLgUoq1f07I",
+    "name": "Estoria",
+    "artist": "Starlace",
+    "duration_ms": 152076,
     "explicit": false
    },
    {
-    "uri": "spotify:track:1DHjd1CimwCGnD5p1lh9nG",
-    "name": "Mind Chime",
-    "artist": "places we go, Misted Minds",
-    "duration_ms": 155000,
+    "uri": "spotify:track:7lFnyzm5QI0cNJn6jtK8kE",
+    "name": "Celestial",
+    "artist": "Nebula Somni",
+    "duration_ms": 138581,
     "explicit": false
    },
    {
-    "uri": "spotify:track:2qMLbeUM1IunPifKpvzqDx",
-    "name": "Enough",
-    "artist": "Fred again.., Brian Eno",
-    "duration_ms": 322499,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:3OgkfYg13Jj96E982moWje",
-    "name": "Dungtitled (In a Major)",
-    "artist": "Stars Of The Lid",
-    "duration_ms": 354120,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:2dqYago9NyGXXbfdujj9OQ",
-    "name": "Mysterium",
-    "artist": "Hammock",
-    "duration_ms": 431869,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:58A5uqHN8qhHHPYHOSKJvs",
-    "name": "bouquet of balloons",
-    "artist": "biosphere",
-    "duration_ms": 183703,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:4IN34Iq5T9x1vN6MASxvS9",
-    "name": "A Stream With Bright Fish - 2005 Digital Remaster",
-    "artist": "Harold Budd, Brian Eno",
-    "duration_ms": 236746,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:4mBeebqJQqV6A2sy1HSH5u",
-    "name": "Sacred Space 432",
-    "artist": "369",
-    "duration_ms": 183000,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:5pbFcxsk67rhX8zEchANwL",
-    "name": "Frozen Frame",
-    "artist": "Nico Harper",
-    "duration_ms": 122514,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:61XPn0MlYHD4CbdDoswXCU",
-    "name": "Heart at Ease",
-    "artist": "Claddagh Glas",
-    "duration_ms": 166000,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:0GlFdh8YAfhcMseYco30Sn",
-    "name": "reconcile feels like",
-    "artist": "ID10",
-    "duration_ms": 129000,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:3bCmDqflFBHijgJfvtqev5",
-    "name": "1/1 - Remastered 2004",
-    "artist": "Brian Eno",
-    "duration_ms": 1041520,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:2e32odICy2AjX3gP52JPUJ",
-    "name": "Oh the Bliss (Reinterpretation)",
-    "artist": "Hammock",
-    "duration_ms": 291016,
+    "uri": "spotify:track:30BmkHqPwmbizWI66raOMF",
+    "name": "My First Breath",
+    "artist": "silent collision",
+    "duration_ms": 155144,
     "explicit": false
    },
    {
@@ -1644,17 +1685,24 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:3PB2lyHUcROeUIqr1607xM",
-    "name": "Sunrise",
-    "artist": "Fables From Mars",
-    "duration_ms": 142374,
+    "uri": "spotify:track:1tzXb0kRm7DA45EUen0TqM",
+    "name": "Endless Falls",
+    "artist": "Loscil",
+    "duration_ms": 475373,
     "explicit": false
    },
    {
-    "uri": "spotify:track:01SGLB03MLqW4r7p4G0Xt9",
-    "name": "Serene Synapse",
-    "artist": "Ballad Whispers",
-    "duration_ms": 175782,
+    "uri": "spotify:track:2OYda4XgQRSNIvWY6XKoXr",
+    "name": "Anytime",
+    "artist": "Teyio River",
+    "duration_ms": 130034,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:1LDCLOOMqfFLHYnl7AdWvq",
+    "name": "Iris",
+    "artist": "Skymna",
+    "duration_ms": 128991,
     "explicit": false
    },
    {
@@ -1665,45 +1713,38 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:49RXTEKqQBOYO7SjX1Uxb5",
-    "name": "Miss Sarajevo",
-    "artist": "Bono, The Edge, Adam Clayton, Larry Mullen, Brian Eno, Passengers, Luciano Pavarotti",
-    "duration_ms": 272426,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:6kaaRaJwSW0E7yWf709zej",
-    "name": "She Will Destroy You - 2024 Remaster",
-    "artist": "Cocteau Twins, Harold Budd",
-    "duration_ms": 254295,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:4zbBYkkI9O0XgpTbNniHMN",
-    "name": "Moon",
-    "artist": "Orivane Noctis",
-    "duration_ms": 123809,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:0qe5MQqiZG0hSZLk41FWSs",
-    "name": "Out Of Orbit",
-    "artist": "northrn frqncy",
-    "duration_ms": 171844,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:762aNFeV7Irf7qipMLpzyP",
-    "name": "Praise God From Whom All Blessings Flow",
-    "artist": "Charles Szczepanek",
-    "duration_ms": 191293,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:244AfRQzVwSOzkkRHGPWge",
-    "name": "An Arc Of Doves - Remastered 2004",
+    "uri": "spotify:track:4IN34Iq5T9x1vN6MASxvS9",
+    "name": "A Stream With Bright Fish - 2005 Digital Remaster",
     "artist": "Harold Budd, Brian Eno",
-    "duration_ms": 389133,
+    "duration_ms": 236746,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:0HgUXqHkrnXpbBRcYQFPMT",
+    "name": "Solar Mass",
+    "artist": "Rhyaene",
+    "duration_ms": 126041,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:6pN3WgxUrZdeaGZhtisach",
+    "name": "Window View",
+    "artist": "Crystalsong",
+    "duration_ms": 189620,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:2PlsSv0tbAqLcMmRTBM0Ss",
+    "name": "Lanterns in the Courtyard",
+    "artist": "Greg Maroney, Sherry Finzer",
+    "duration_ms": 138717,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:1vUImkak4EASlpIcqBxkV2",
+    "name": "Quiet Sunset",
+    "artist": "Miguel Castro, Joey Stuckey, Kathy Hawkins, Leah Hammock, Adam Mitchell",
+    "duration_ms": 215000,
     "explicit": false
    }
   ]
@@ -1716,13 +1757,13 @@
   "sources": [
    "37i9dQZF1DX4hpot8sYudB"
   ],
-  "duree_min": 207,
+  "duree_min": 238,
   "titres": [
    {
-    "uri": "spotify:track:5NutTpL6ky088ALd3Ae7Nl",
-    "name": "Sleepy Brown Noise",
-    "artist": "Équipage ambiant",
-    "duration_ms": 180000,
+    "uri": "spotify:track:0Y9jvky5xqVxHeS4IhhMiv",
+    "name": "Brown Brown Noise",
+    "artist": "Vita Nova",
+    "duration_ms": 168106,
     "explicit": false
    },
    {
@@ -1733,80 +1774,45 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:4rFNWhloFg5mpXdbJ6q2cR",
-    "name": "I'm crying out",
-    "artist": "Ava Thorn",
-    "duration_ms": 261320,
+    "uri": "spotify:track:0dCmuzkKcmTP3vuZe7NlcG",
+    "name": "Calm Brown Noise for the Sleep Deprived (Loopable no fade)",
+    "artist": "Dream Supplier",
+    "duration_ms": 142222,
     "explicit": false
    },
    {
-    "uri": "spotify:track:1FSJmdLHykLH3RCoBlEAEV",
-    "name": "Donna Carmen - Italian Version",
-    "artist": "Pink Noisy, Luigi Catalano",
-    "duration_ms": 193658,
+    "uri": "spotify:track:1dZcp0kDR3eP87mncwvojS",
+    "name": "Earthen Brown Noise",
+    "artist": "Relaxed Skies",
+    "duration_ms": 138502,
     "explicit": false
    },
    {
-    "uri": "spotify:track:1k9p57OeqncUvtGEw49HRq",
-    "name": "You Should Know By Now",
-    "artist": "NBK Young",
-    "duration_ms": 204931,
+    "uri": "spotify:track:6FemdmOWokRPLX3EtqiaJ2",
+    "name": "Brown Noise Loop (No Fade)",
+    "artist": "SleepTherapy",
+    "duration_ms": 594972,
     "explicit": false
    },
    {
-    "uri": "spotify:track:7cmcdfAbCUaNzumbveov6d",
-    "name": "Dreamy Fields Of Brown Noise",
-    "artist": "Auplaudios",
-    "duration_ms": 160844,
+    "uri": "spotify:track:4sk8O6SUrBfhevZk1tI2JP",
+    "name": "Pink Noise Moment",
+    "artist": "Pink Orbit",
+    "duration_ms": 200750,
     "explicit": false
    },
    {
-    "uri": "spotify:track:1BxKKGjwLWiqawXnKrsI1A",
-    "name": "Brown Noise, Unbroken",
-    "artist": "Équipage ambiant",
-    "duration_ms": 181166,
+    "uri": "spotify:track:7hK8bkwAxflv468WkaeyUs",
+    "name": "Tranquil Brown Noise",
+    "artist": "Noise Eternity",
+    "duration_ms": 178530,
     "explicit": false
    },
    {
-    "uri": "spotify:track:7LP4Wszs1E6P7J3Y2qXANq",
-    "name": "Window Seat Sleep",
-    "artist": "Deepnoum",
-    "duration_ms": 224397,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:3XlR3PvIXmlSNntap3uwwJ",
-    "name": "Pink Noise",
-    "artist": "Korsakoff",
-    "duration_ms": 319137,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:2nvmHk4JnsZ94mygliLsou",
-    "name": "Moments",
-    "artist": "Jhené Aiko, Big Sean",
-    "duration_ms": 178920,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:3DEcCBYZ6wvBEIwSWld6LS",
-    "name": "Machine Brown Noise",
-    "artist": "Construidor",
-    "duration_ms": 146579,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:5sSoBock1ZOkM6srpxQaLG",
-    "name": "Dreamy Brown Noise",
-    "artist": "Focus Noise",
-    "duration_ms": 183500,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:3qqgZJRKoi4oRva6eCrCC4",
-    "name": "Crossing Muddy Waters",
-    "artist": "John Hiatt",
-    "duration_ms": 245054,
+    "uri": "spotify:track:5ZW3pc5JElAT9J8vzK1PuG",
+    "name": "Brown Noise 1 Hour Long",
+    "artist": "Musashi Noise Lab",
+    "duration_ms": 3600000,
     "explicit": false
    },
    {
@@ -1817,111 +1823,6 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:5QjQEdRDbmbsSj0bnztezu",
-    "name": "Focus Disease",
-    "artist": "Odd Beholder",
-    "duration_ms": 180193,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:5UBonaClAZVfzxJNn8nnhh",
-    "name": "Brown Sleep Noise",
-    "artist": "Sleep Miracle",
-    "duration_ms": 248000,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:2C1KgvDzeBJvLPsSlVBeT4",
-    "name": "Deep Calm Brown Noise",
-    "artist": "Expheria",
-    "duration_ms": 184500,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:0zAoa6i82fhWKxaOXB0HLF",
-    "name": "Too Hot",
-    "artist": "Pink Noise",
-    "duration_ms": 213213,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:78Nncmx9kBlgCv9NnkEfqn",
-    "name": "Brown Noise (Focus & Concentration), Pt. 04",
-    "artist": "Sleepy John",
-    "duration_ms": 125179,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:2k34sNbQDrC0fGCGd0P4qx",
-    "name": "Brown Noise Continuum",
-    "artist": "Bona Nochy",
-    "duration_ms": 158000,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:7jb1ZSirsHV1H2cLTNbqDX",
-    "name": "Crossing Muddy Waters",
-    "artist": "I'm With Her, Sara Watkins, Sarah Jarosz, Aoife O'Donovan",
-    "duration_ms": 228320,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:3FFBZH4REu6L4OHfhA0Zbx",
-    "name": "Pink Noise Atmosphere",
-    "artist": "Granular",
-    "duration_ms": 210000,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:1VJQ7IBUjWH0C1oo1mhFq6",
-    "name": "Low-End Rest",
-    "artist": "Arven",
-    "duration_ms": 180226,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:00N4DgM8so0Pn1Pdb0m9Kc",
-    "name": "Brown Cozy Noise - Seamless",
-    "artist": "Aileron",
-    "duration_ms": 175000,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:0B97qFqGUnLvV2tXZpXfxf",
-    "name": "Deep Sleep Brown Noise",
-    "artist": "Bits & Noise",
-    "duration_ms": 163669,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:5PCtHhGvuwcvCZTxVD8K6K",
-    "name": "Unknown Delight",
-    "artist": "George Harrison",
-    "duration_ms": 258000,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:40gtc8CqWgi9KXY6tbxI8z",
-    "name": "Pink Noise to Help Focus",
-    "artist": "Xella Machina",
-    "duration_ms": 202750,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:1otteCNFXUuV54kEy0RhPk",
-    "name": "Brown Noise (Focus & Concentration), Pt. 03",
-    "artist": "Sleepy John",
-    "duration_ms": 125140,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:6vANG8Nd4jWuceVBW0qbIP",
-    "name": "Brown Noise Thunderstorm",
-    "artist": "Breez Bing",
-    "duration_ms": 168669,
-    "explicit": false
-   },
-   {
     "uri": "spotify:track:2ex3O9bv4muJcuVI3BQbtj",
     "name": "Pink Noise for Sleeping",
     "artist": "Falling into Pink",
@@ -1929,80 +1830,10 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:4Qh3IP6r0bbSPL0qYetkIc",
-    "name": "Deep Brown Noise Loop",
-    "artist": "Casper White",
-    "duration_ms": 198000,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:571cKOrpEtTcQnv5uOUqYr",
-    "name": "Soothing Brown Noise",
-    "artist": "Biolume",
-    "duration_ms": 166000,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:3HJiyNzdB6VPaLJQwi7iml",
-    "name": "Water Brown Noise",
-    "artist": "Naturelle",
-    "duration_ms": 141177,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:5GpfyJrKHJI36jDKtQiyGN",
-    "name": "Golden Brown",
-    "artist": "The Stranglers",
-    "duration_ms": 206760,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:040Dm1WYe66zf7pC643tSo",
-    "name": "Deep Brown Seas",
-    "artist": "Ocean Therapy",
-    "duration_ms": 188000,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:7Fk0TyWNtY8MW1E54YgWnE",
-    "name": "Sleeping In Pink Noise",
-    "artist": "Mood Factory",
-    "duration_ms": 200000,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:0RxrYO8WoP0p1vbclmzcgK",
-    "name": "Want That",
-    "artist": "Icconic Woo",
-    "duration_ms": 173764,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:4mjBJXhHwywloF1TW6sQ3Y",
-    "name": "Kids Sleep Better with Brown Noise",
-    "artist": "Limone M",
-    "duration_ms": 206750,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:7KTxYjX3E5pOyRv3DM6Ija",
-    "name": "Brown Noise Zen Zone",
-    "artist": "The Frequency Shifters",
-    "duration_ms": 302869,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:7rl3oe00C0iWzsdmRoIsuG",
-    "name": "Private Jet Sleep",
-    "artist": "Deepnoum",
-    "duration_ms": 199480,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:1KuRbwlYtCvlkLc7qt1yIE",
-    "name": "Brown Noise 3 Hours Long",
-    "artist": "quietly3",
-    "duration_ms": 3599275,
+    "uri": "spotify:track:3XlR3PvIXmlSNntap3uwwJ",
+    "name": "Pink Noise",
+    "artist": "Korsakoff",
+    "duration_ms": 319137,
     "explicit": false
    },
    {
@@ -2013,6 +1844,125 @@
     "explicit": false
    },
    {
+    "uri": "spotify:track:5sSoBock1ZOkM6srpxQaLG",
+    "name": "Dreamy Brown Noise",
+    "artist": "Focus Noise",
+    "duration_ms": 183500,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:1mPXOwNa6urtuDTv9XZlL3",
+    "name": "Deep Brown Noise",
+    "artist": "Brainbox",
+    "duration_ms": 188000,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:1qvcFTM4ERMioATIh2T8kF",
+    "name": "Pink Noise Energy",
+    "artist": "Static Fields",
+    "duration_ms": 216216,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:78Nncmx9kBlgCv9NnkEfqn",
+    "name": "Brown Noise (Focus & Concentration), Pt. 04",
+    "artist": "Sleepy John",
+    "duration_ms": 125179,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:5QBbgqf0nvXkRDP7sPz7rP",
+    "name": "Delicate Brown Noise",
+    "artist": "Delicatessen Noise",
+    "duration_ms": 201600,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:5UBonaClAZVfzxJNn8nnhh",
+    "name": "Brown Sleep Noise",
+    "artist": "Sleep Miracle",
+    "duration_ms": 248000,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:201gFTxfxTvqBoXFuwd3x2",
+    "name": "Brown Noise Soul",
+    "artist": "R. Guru",
+    "duration_ms": 144000,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:2k34sNbQDrC0fGCGd0P4qx",
+    "name": "Brown Noise Continuum",
+    "artist": "Bona Nochy",
+    "duration_ms": 158000,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:54UrbTg1hjmJGnzMDt6prM",
+    "name": "Pink Noise For Sleep",
+    "artist": "Thyyphoon",
+    "duration_ms": 182000,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:6wffjjTQR9b6d2OFGlMPkS",
+    "name": "Children's Brown Noise",
+    "artist": "The Tone-Gens",
+    "duration_ms": 219500,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:5MAtiCD4d2jP63zyN4W40n",
+    "name": "Brown Noise Foundation",
+    "artist": "The Still Hour",
+    "duration_ms": 175965,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:2C1KgvDzeBJvLPsSlVBeT4",
+    "name": "Deep Calm Brown Noise",
+    "artist": "Expheria",
+    "duration_ms": 184500,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:4oUQtxWrg9NWuI1AXNvtWT",
+    "name": "Pink Noise For Sleep 4",
+    "artist": "Granular",
+    "duration_ms": 201163,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:571cKOrpEtTcQnv5uOUqYr",
+    "name": "Soothing Brown Noise",
+    "artist": "Biolume",
+    "duration_ms": 166000,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:1Ck7G535xOvON2YNhv5K9N",
+    "name": "Fabulous Brown Noise",
+    "artist": "Valdervande",
+    "duration_ms": 188103,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:3FFBZH4REu6L4OHfhA0Zbx",
+    "name": "Pink Noise Atmosphere",
+    "artist": "Granular",
+    "duration_ms": 210000,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:0yeaaO4hzuiufuGIeuVCVK",
+    "name": "Calm and Steady Brown Noise",
+    "artist": "Natsound",
+    "duration_ms": 196000,
+    "explicit": false
+   },
+   {
     "uri": "spotify:track:7Dd48gdiGiCrx4I1plpwjc",
     "name": "Restful brown noise",
     "artist": "Franz Emerald",
@@ -2020,10 +1970,52 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:6FemdmOWokRPLX3EtqiaJ2",
-    "name": "Brown Noise Loop (No Fade)",
-    "artist": "SleepTherapy",
-    "duration_ms": 594972,
+    "uri": "spotify:track:7KTxYjX3E5pOyRv3DM6Ija",
+    "name": "Brown Noise Zen Zone",
+    "artist": "The Frequency Shifters",
+    "duration_ms": 302869,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:7Fk0TyWNtY8MW1E54YgWnE",
+    "name": "Sleeping In Pink Noise",
+    "artist": "Mood Factory",
+    "duration_ms": 200000,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:1BxKKGjwLWiqawXnKrsI1A",
+    "name": "Brown Noise, Unbroken",
+    "artist": "Équipage ambiant",
+    "duration_ms": 181166,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:40gtc8CqWgi9KXY6tbxI8z",
+    "name": "Pink Noise to Help Focus",
+    "artist": "Xella Machina",
+    "duration_ms": 202750,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:7DGZSTOv3c0I6usjGrf1mC",
+    "name": "Brown Noise Underwater - Loopable no fade",
+    "artist": "Dream Supplier",
+    "duration_ms": 142222,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:0B97qFqGUnLvV2tXZpXfxf",
+    "name": "Deep Sleep Brown Noise",
+    "artist": "Bits & Noise",
+    "duration_ms": 163669,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:1KuRbwlYtCvlkLc7qt1yIE",
+    "name": "Brown Noise 3 Hours Long",
+    "artist": "quietly3",
+    "duration_ms": 3599275,
     "explicit": false
    }
   ]
@@ -2038,181 +2030,41 @@
    "6AMLo7m6b3eTbv11buZNaM",
    "37i9dQZF1DXdfOcg1fm0VG"
   ],
-  "duree_min": 162,
+  "duree_min": 161,
   "titres": [
    {
-    "uri": "spotify:track:2CwKfRrZj4p4Dqh2zoz10Q",
-    "name": "Tressa, the Merchant (From \"Octopath Traveler\")",
-    "artist": "Moisés Nieto",
-    "duration_ms": 190061,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:2QBw72MiksITj0490637BN",
-    "name": "Introduction",
-    "artist": "Solar Fields",
-    "duration_ms": 334413,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:33eoaqosKfgXYHd6HyYmPh",
-    "name": "The First Hunter",
-    "artist": "SIE Sound Team",
-    "duration_ms": 311746,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:1MLZMrjfwiT5ll5vjIwwU7",
-    "name": "Wet Hands",
-    "artist": "C418",
-    "duration_ms": 90000,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:6NlKpIgOeU0y4puwrTFI2w",
-    "name": "Apotheosis",
-    "artist": "Austin Wintory",
-    "duration_ms": 430151,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:1IosMCeTsMXUzz7Eb7AlWn",
-    "name": "Titan",
-    "artist": "Disasterpeace",
-    "duration_ms": 171997,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:4PNeUzpdtebym9qcjsiF9h",
-    "name": "Kyne's Peace",
-    "artist": "Jeremy Soule, The Elder Scrolls",
-    "duration_ms": 229517,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:2BCvIiQrazA34rNicXHK5x",
-    "name": "Coral Crown",
-    "artist": "Darren Korb, Erin Yvette, Ashley Barrett, Judy Alice Lee",
-    "duration_ms": 247043,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:2ykpGxtio3h7TN2pe31YFi",
-    "name": "Under an Ancient Sun",
+    "uri": "spotify:track:5XcivSLcE4sR5s9ItTxROd",
+    "name": "Unbroken Road",
     "artist": "Jeremy Soule",
-    "duration_ms": 221649,
+    "duration_ms": 384173,
     "explicit": false
    },
    {
-    "uri": "spotify:track:7zvhJA7fLHc5SwdKhy3LRq",
-    "name": "Funeral",
-    "artist": "Jesper Kyd",
-    "duration_ms": 167946,
+    "uri": "spotify:track:1vT6Unn3kM67tGaUv3N2k3",
+    "name": "Clair-Obscur",
+    "artist": "Lorien Testard, Alice Duport-Percier",
+    "duration_ms": 219000,
     "explicit": false
    },
    {
-    "uri": "spotify:track:52OFbGqmiCNV5nPLP11WjV",
-    "name": "The Prize",
-    "artist": "Stephen Lukach, Assassin's Creed",
-    "duration_ms": 127446,
+    "uri": "spotify:track:0OEZKBDeAOdqXFA4NPh1S4",
+    "name": "Hostage - Connor",
+    "artist": "Nima Fakhrara",
+    "duration_ms": 172000,
     "explicit": false
    },
    {
-    "uri": "spotify:track:4ZN7u9FmQa7Lp1TCafAgsn",
-    "name": "Moog City 2",
+    "uri": "spotify:track:2hLRXbh7TwezpksciMibG1",
+    "name": "Subwoofer Lullaby",
     "artist": "C418",
-    "duration_ms": 180000,
+    "duration_ms": 208562,
     "explicit": false
    },
    {
-    "uri": "spotify:track:6lJZcQbtCNLCDOqS8ijRMo",
-    "name": "Threshold",
-    "artist": "Austin Wintory",
-    "duration_ms": 365196,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:6tRfP1zyPlUHzcGNjVI3mH",
-    "name": "Heels",
-    "artist": "Disasterpeace",
-    "duration_ms": 167000,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:2J82xw91Tqk1RaF38zUn8w",
-    "name": "Night Market",
-    "artist": "ConcernedApe",
-    "duration_ms": 131142,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:5gN0QgUj2FlvG8LTdkh1YB",
-    "name": "Far Horizons",
-    "artist": "Jeremy Soule, The Elder Scrolls",
-    "duration_ms": 331475,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:5gQTdwbLvhRHtMcyWxl3y2",
-    "name": "Good Riddance (Eurydice Solo)",
-    "artist": "Darren Korb, Ashley Barrett",
-    "duration_ms": 177322,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:6zjJaa4hDWmOXISKOnDUMK",
-    "name": "Breezy (From \"Final Fantasy VIII\") - 2019 performance",
-    "artist": "Moisés Nieto",
-    "duration_ms": 157963,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:3ynOh82NOks4d4YcKkcrnt",
-    "name": "Main Title",
-    "artist": "Inon Zur",
-    "duration_ms": 124969,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:6Dc23uTvKTKbyDfZ3WAzEO",
-    "name": "Blind Spots",
-    "artist": "C418",
-    "duration_ms": 332500,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:3f8hXkRbjtVQzygvnyLCR4",
-    "name": "Unpredictable and Joyous",
-    "artist": "Austin Wintory",
-    "duration_ms": 287349,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:5WgxfuPPB3JFR2t7kcpFZG",
-    "name": "Fall (The Smell of Mushroom)",
-    "artist": "ConcernedApe",
-    "duration_ms": 213000,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:4DhZFwcfFKGImcUN3qF78Z",
-    "name": "Moonlight Guide Us",
-    "artist": "Darren Korb, Ashley Barrett, Judy Alice Lee",
-    "duration_ms": 178212,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:5MYAa4RuOtGJidLJJGBx0l",
-    "name": "H'aanit, the Hunter (From \"Octopath Traveler\")",
-    "artist": "Moisés Nieto",
-    "duration_ms": 163236,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:3zMto3WJqJQXYaAABtR7mf",
-    "name": "Viva Libertad: Epic Version (From the Far Cry 6 Original Game Soundtrack)",
-    "artist": "Pedro Bromfman",
-    "duration_ms": 160255,
+    "uri": "spotify:track:03sypv5hpcu00S9Ff89eiK",
+    "name": "Family",
+    "artist": "Austin Wintory, Assassin's Creed",
+    "duration_ms": 115568,
     "explicit": false
    },
    {
@@ -2223,24 +2075,87 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:4lz6RS1fxcfNBG8QYzE2ty",
-    "name": "Fall (Raven's Descent)",
+    "uri": "spotify:track:5WgxfuPPB3JFR2t7kcpFZG",
+    "name": "Fall (The Smell of Mushroom)",
     "artist": "ConcernedApe",
-    "duration_ms": 169565,
+    "duration_ms": 213000,
     "explicit": false
    },
    {
-    "uri": "spotify:track:03BxXgGwSZ11yzrVmu8mVn",
-    "name": "Pirate’s Gigue",
-    "artist": "Project Destati",
-    "duration_ms": 188290,
+    "uri": "spotify:track:5tXgla2j12FUmxWX3dhXeO",
+    "name": "From Past to Present",
+    "artist": "Jeremy Soule, The Elder Scrolls",
+    "duration_ms": 304007,
     "explicit": false
    },
    {
-    "uri": "spotify:track:3j1lvwbdfj3xflDnQazc8n",
-    "name": "Alicia",
-    "artist": "Lorien Testard, Alice Duport-Percier",
-    "duration_ms": 170000,
+    "uri": "spotify:track:4DhZFwcfFKGImcUN3qF78Z",
+    "name": "Moonlight Guide Us",
+    "artist": "Darren Korb, Ashley Barrett, Judy Alice Lee",
+    "duration_ms": 178212,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:6zowXZM8HlPlQRKvoHTTcd",
+    "name": "Eterna Forest",
+    "artist": "Hitomi Sato, Braxton Burks, Kristin Naigus",
+    "duration_ms": 244533,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:63IrechN2iaKiEVRP0Bfqa",
+    "name": "Back in Venice",
+    "artist": "Jesper Kyd, Assassin's Creed",
+    "duration_ms": 93354,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:1r4MUA5cT9eGCI9drPV74m",
+    "name": "Bloodhunt Main Theme",
+    "artist": "Atanas Valkov",
+    "duration_ms": 177000,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:716HpbfSkMkU7TwQsJlhHT",
+    "name": "Sweden",
+    "artist": "C418",
+    "duration_ms": 215500,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:3f8hXkRbjtVQzygvnyLCR4",
+    "name": "Unpredictable and Joyous",
+    "artist": "Austin Wintory",
+    "duration_ms": 287349,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:4Q0GOW23AmwKny0FQ7299N",
+    "name": "Panacea",
+    "artist": "Disasterpeace",
+    "duration_ms": 364273,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:5m7NJWzwr7b6c3ruFLoYKE",
+    "name": "Ancient Stones",
+    "artist": "Jeremy Soule, The Elder Scrolls",
+    "duration_ms": 285531,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:5N4uTnnwvnREF8qQyCOd7p",
+    "name": "Good Riddance",
+    "artist": "Darren Korb, Ashley Barrett",
+    "duration_ms": 178829,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:3zo7zBn3squSuH8VWyLAyU",
+    "name": "Zelda’s Theme",
+    "artist": "TPR",
+    "duration_ms": 123832,
     "explicit": false
    },
    {
@@ -2251,73 +2166,115 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:0z2IERVFhfUOpraR5PXcfL",
-    "name": "Moon's Tears (Astral Observatory)",
-    "artist": "Koji Kondo, ROZEN",
-    "duration_ms": 274706,
+    "uri": "spotify:track:1MLZMrjfwiT5ll5vjIwwU7",
+    "name": "Wet Hands",
+    "artist": "C418",
+    "duration_ms": 90000,
     "explicit": false
    },
    {
-    "uri": "spotify:track:3HZlq0kyCzWvPF3rpg3rF4",
-    "name": "Return to Slumber",
-    "artist": "SIE Sound Team",
-    "duration_ms": 269945,
+    "uri": "spotify:track:45mG9ywi5sbbxjA2Rdv95L",
+    "name": "Huddled in the Shadows",
+    "artist": "Austin Wintory",
+    "duration_ms": 182065,
     "explicit": false
    },
    {
-    "uri": "spotify:track:4AXy57QDFmqdKAhvbM3yAP",
-    "name": "Promise of the West (feat. Julie Elven) - (From \"Horizon Forbidden West\" Video Game Soundtrack)",
-    "artist": "Joris de Man, Julie Elven",
-    "duration_ms": 175455,
+    "uri": "spotify:track:4ACs7pxDMiMbgBSC2xTdJS",
+    "name": "Winter (Nocturne of Ice)",
+    "artist": "ConcernedApe",
+    "duration_ms": 200000,
     "explicit": false
    },
    {
-    "uri": "spotify:track:0VLEB9HAFntcswJYRRTTd1",
-    "name": "Longing",
-    "artist": "Gustavo Santaolalla",
-    "duration_ms": 105773,
+    "uri": "spotify:track:7Cn3qVIokJ9ljscjexzAWr",
+    "name": "Coral Crown",
+    "artist": "Darren Korb, Erin Yvette, Ashley Barrett, Judy Alice Lee",
+    "duration_ms": 246755,
     "explicit": false
    },
    {
-    "uri": "spotify:track:02NkRJE44Bsu22uGEmh72Q",
-    "name": "Shadows Main Theme",
-    "artist": "The Flight, Assassin's Creed",
-    "duration_ms": 193370,
+    "uri": "spotify:track:2EjqstvXeWLOTFVbNs9jT3",
+    "name": "The Cliftlands (From \"Octopath Traveler\")",
+    "artist": "Moisés Nieto",
+    "duration_ms": 222054,
     "explicit": false
    },
    {
-    "uri": "spotify:track:0OP7uPeLlDjPuPOkl4LcNu",
-    "name": "Crystal Peak",
-    "artist": "Christopher Larkin",
-    "duration_ms": 248331,
+    "uri": "spotify:track:3gMRvptppSZGbhYBeIqxV3",
+    "name": "Metal Gear Saga",
+    "artist": "Harry Gregson-Williams",
+    "duration_ms": 259920,
     "explicit": false
    },
    {
-    "uri": "spotify:track:3V1ZxjKHdUbYpAEMxc6NK7",
-    "name": "Premonition",
-    "artist": "Yuka Kitamura",
-    "duration_ms": 126320,
+    "uri": "spotify:track:4jMEwlGhXmttx2v4mbWovS",
+    "name": "The Midnight Wood",
+    "artist": "Disasterpeace",
+    "duration_ms": 398500,
     "explicit": false
    },
    {
-    "uri": "spotify:track:05XPxcgHp4I4CFlOhMnskS",
-    "name": "Super Mario Galaxy: Gusty Garden Galaxy",
-    "artist": "Koji Kondo, Mahito Yokota, Andrew Skeet, London Philharmonic Orchestra",
-    "duration_ms": 229777,
+    "uri": "spotify:track:2J82xw91Tqk1RaF38zUn8w",
+    "name": "Night Market",
+    "artist": "ConcernedApe",
+    "duration_ms": 131142,
     "explicit": false
    },
    {
-    "uri": "spotify:track:4gCnaT6NKQmR3hqEeHp30t",
-    "name": "Dirtmouth",
-    "artist": "Christopher Larkin",
-    "duration_ms": 115009,
+    "uri": "spotify:track:5vmOnSIFmozOGVsktBow6I",
+    "name": "Enveloped in Kindness (From \"Octopath Traveler\")",
+    "artist": "Moisés Nieto",
+    "duration_ms": 191800,
     "explicit": false
    },
    {
-    "uri": "spotify:track:05UMQXFCsa9oPnLgfJHVyF",
-    "name": "Ezio's Family",
-    "artist": "Jesper Kyd, Assassin's Creed",
-    "duration_ms": 237900,
+    "uri": "spotify:track:7jasRn6dLzq8JfT0lnIT8a",
+    "name": "New Home",
+    "artist": "Olivier Deriviere",
+    "duration_ms": 233626,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:2iiJOgkKOCyb7ZPeqUNpud",
+    "name": "Elden Ring",
+    "artist": "Tsukasa Saitoh",
+    "duration_ms": 98382,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:5rXGNSWs3YHIS7q3dI9DOX",
+    "name": "Ophilia, the Cleric (From \"OCTOPATH TRAVELER\")",
+    "artist": "Moisés Nieto",
+    "duration_ms": 218267,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:34S8WMN7rbuxIcgPkkp9rI",
+    "name": "Asgard (From \"God of War Ragnarök\" Soundtrack)",
+    "artist": "Bear McCreary",
+    "duration_ms": 219770,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:2fSXpnPjqPuRfp1xxm4G3R",
+    "name": "Beyond the Dawn",
+    "artist": "Motoi Sakuraba, Tales of Series Sound Team, Bandai Namco Game Music",
+    "duration_ms": 97029,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:4FGuRxdPJrIlaHRZr4F5WM",
+    "name": "Aquatic Ambience (From \"Donkey Kong Country 2\")",
+    "artist": "Good Knight Productions",
+    "duration_ms": 219456,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:0Y2UnfaTcaQKGjIy8qQZwY",
+    "name": "Father",
+    "artist": "Olivier Deriviere",
+    "duration_ms": 155706,
     "explicit": false
    },
    {
@@ -2328,52 +2285,87 @@
     "explicit": false
    },
    {
-    "uri": "spotify:track:1NsNSwz86I9SC6tbaM52lP",
-    "name": "A Beautiful Morning",
-    "artist": "Olivier Deriviere, Giani Caserotto",
-    "duration_ms": 109427,
-    "explicit": false
-   },
-   {
-    "uri": "spotify:track:0NsG1b9koK74vTJ2VJUJQU",
-    "name": "The Last of Us Part II",
+    "uri": "spotify:track:5PvWM8RrfJ1vNBoRHviWMB",
+    "name": "Home",
     "artist": "Gustavo Santaolalla",
-    "duration_ms": 172560,
+    "duration_ms": 187853,
     "explicit": false
    },
    {
-    "uri": "spotify:track:71fiGPPJZgAi52MoJEbekq",
-    "name": "Azalea Town",
-    "artist": "Braxton Burks",
-    "duration_ms": 109098,
+    "uri": "spotify:track:74RXECEEdc945gowRY4ebj",
+    "name": "Pokémon®",
+    "artist": "Video Games Live",
+    "duration_ms": 254747,
     "explicit": false
    },
    {
-    "uri": "spotify:track:7n4fCZqYvVyQXzufXBcdWZ",
-    "name": "Welcome Home",
-    "artist": "John Paesano",
-    "duration_ms": 154265,
+    "uri": "spotify:track:2UxFBxv0kHxHWCX9Zt5AdU",
+    "name": "Firelink Shrine",
+    "artist": "Yuka Kitamura",
+    "duration_ms": 186626,
     "explicit": false
    },
    {
-    "uri": "spotify:track:5HYwxDWR8NakQVuYd2e0JX",
-    "name": "Maiden in Black",
+    "uri": "spotify:track:4BhtX2RYw9R6Y3ZNWz1DqM",
+    "name": "Crash Landing",
+    "artist": "Finishing Move Inc.",
+    "duration_ms": 213586,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:57TXd9OJu3Xsx6mDHteOwJ",
+    "name": "回想",
     "artist": "SIE Sound Team",
-    "duration_ms": 257853,
+    "duration_ms": 108426,
     "explicit": false
    },
    {
-    "uri": "spotify:track:3m8UfZwPMMbiWfGR8Lg2cR",
-    "name": "The Rebel Path",
-    "artist": "P.T. Adamczyk",
-    "duration_ms": 250960,
+    "uri": "spotify:track:372ottv1RRZdzqAkywYMpA",
+    "name": "Fungal Wastes",
+    "artist": "Christopher Larkin",
+    "duration_ms": 184418,
     "explicit": false
    },
    {
-    "uri": "spotify:track:6Tkn4gwyqVcpU0ecgtU3bw",
-    "name": "Dearly Beloved - KINGDOM HEARTS II Version-",
-    "artist": "Yoko Shimomura",
-    "duration_ms": 259105,
+    "uri": "spotify:track:4prLjTDLdh6Fk2mYza9q0Y",
+    "name": "Race To Destruction",
+    "artist": "Brain",
+    "duration_ms": 178040,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:1aS9yGDTGq0gLrPdDQMYAU",
+    "name": "Traverse Town",
+    "artist": "TPR",
+    "duration_ms": 151234,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:5SWI7JbAwfTPgs0cuorR7H",
+    "name": "Further",
+    "artist": "Brian Tyler, Serena McKinney",
+    "duration_ms": 244187,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:5XZcXfoS6IAiErcvGT2qhx",
+    "name": "Kass's Theme",
+    "artist": "ROZEN",
+    "duration_ms": 121533,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:0HBa07ZVrZ1MEPqAJiDX0Z",
+    "name": "Hotel Clarington",
+    "artist": "Samuel Desrosiers",
+    "duration_ms": 220691,
+    "explicit": false
+   },
+   {
+    "uri": "spotify:track:1w54cAkBYm5c2K5eq2KQn7",
+    "name": "Sword of Despair",
+    "artist": "Caisheng Bo",
+    "duration_ms": 249505,
     "explicit": false
    }
   ]

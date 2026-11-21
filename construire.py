@@ -35,7 +35,7 @@ def recherche_artistes(artistes, par_artiste=6):
         time.sleep(0.4)
     return out
 
-def assembler(sources, cible_min, dmin=90, dmax=12*60, max_par_artiste=3, exclure_mots=()):
+def assembler(sources, cible_min, dmin=90, dmax=12*60, max_par_artiste=3, exclure_mots=(), requis=None):
     """Tourniquet entre les sources, filtres, dédoublonnage, plafond par artiste, jusqu'à cible_min minutes."""
     piles = [list(tr) for _, tr in sources if tr]
     for p in piles: random.shuffle(p)
@@ -53,6 +53,7 @@ def assembler(sources, cible_min, dmin=90, dmax=12*60, max_par_artiste=3, exclur
             if cle in vus: continue
             nom = t["name"].lower()
             if any(m in nom for m in exclure_mots): continue
+            if requis and requis not in nom: continue
             art = cle[1]
             if par_artiste.get(art, 0) >= max_par_artiste: continue
             vus.add(cle); par_artiste[art] = par_artiste.get(art, 0) + 1
@@ -63,7 +64,7 @@ def assembler(sources, cible_min, dmin=90, dmax=12*60, max_par_artiste=3, exclur
 PLANS = [
     dict(cle="classique", nom="Classique", son="Baroque et musique de chambre, cordes et clavecin, sans voix",
          pourquoi="Tempo stable, pas de paroles : le choix classique des bibliothèques. L'« effet Mozart » est un mythe, mais la régularité du baroque reste un bon fond.",
-         embeds=["37i9dQZF1DWXjj6kdiviS0", "0QknRAZUpwPtM2dQIzAnAa"],
+         embeds=["37i9dQZF1DWXjj6kdiviS0"],
          artistes=["Johann Sebastian Bach", "Antonio Vivaldi", "Arcangelo Corelli", "Georg Philipp Telemann", "Erik Satie", "Claude Debussy"],
          cible=160, exclure=("aria", "cantata", "chorus", "choir", "ave maria", "magnificat", "stabat")),
     dict(cle="piano", nom="Piano", son="Piano solo contemporain (Nils Frahm, Ólafur Arnalds, Hania Rani), lent et doux",
@@ -84,13 +85,13 @@ PLANS = [
     dict(cle="ambient", nom="Ambient", son="Nappes et drones (Brian Eno, Stars of the Lid, Hammock), presque sans rythme",
          pourquoi="Quasi aucune variation ni mélodie à suivre : le cerveau n'a rien à attraper. Le plus proche d'un bruit, en musical.",
          embeds=["37i9dQZF1DWZeKCadgRdKQ", "37i9dQZF1DX3Ogo9pFvBkY", "4iGAttKqCR2Jg9kl2cUiBq"],
-         artistes=["Brian Eno", "Stars of the Lid", "Hammock", "Biosphere", "Harold Budd", "36"],
+         artistes=["Stars of the Lid", "Hammock", "Biosphere", "Harold Budd", "36", "Loscil"],
          cible=170, dmax=20*60),
     dict(cle="bruit", nom="Bruits sourds", son="Bruit brun et bruit rose en continu, pas de musique",
          pourquoi="Le seul type de son avec une preuve chez les profils TDAH : bruit blanc/rose = petit gain mesuré (13 études, 2024). Hors TDAH, ça gêne plutôt.",
          embeds=["37i9dQZF1DX4hpot8sYudB"],
          artistes=[], recherches=["brown noise", "deep brown noise", "pink noise", "brown noise sleep focus"],
-         cible=200, dmin=120, dmax=60*60, max_par_artiste=6, exclure=("rain", "white noise", "fan", "ocean", "wave")),
+         cible=200, dmin=120, dmax=60*60, max_par_artiste=6, exclure=("rain", "white noise", "fan", "ocean", "wave"), requis="noise"),
     dict(cle="jeux", nom="Jeux vidéo", son="Bandes originales calmes de jeux (Minecraft, Journey, Stardew Valley…)",
          pourquoi="Écrite pour tenir l'attention des heures sans jamais la voler : c'est leur cahier des charges.",
          embeds=["7yS1SKPgJphkjP3kEpzgCg", "6AMLo7m6b3eTbv11buZNaM", "37i9dQZF1DXdfOcg1fm0VG"],
@@ -121,7 +122,7 @@ for p in PLANS:
     if p.get("artistes"): src += recherche_artistes(p["artistes"])
     if p.get("recherches"): src += recherche_mots(p["recherches"])
     titres, total = assembler(src, p["cible"], dmin=p.get("dmin", 90), dmax=p.get("dmax", 12*60),
-                              max_par_artiste=p.get("max_par_artiste", 3), exclure_mots=p.get("exclure", ()))
+                              max_par_artiste=p.get("max_par_artiste", 3), exclure_mots=p.get("exclure", ()), requis=p.get("requis"))
     print(f"  → {len(titres)} titres, {total/60000:.0f} min", file=sys.stderr)
     resultat.append({"cle": p["cle"], "nom": PREFIXE + p["nom"], "son": p["son"], "pourquoi": p["pourquoi"],
                      "sources": p["embeds"], "duree_min": round(total / 60000), "titres": titres})
