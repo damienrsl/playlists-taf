@@ -6,9 +6,18 @@ import json, os, re, sys, time, sqlite3, shutil, subprocess, hashlib, urllib.req
 ICI = pathlib.Path(__file__).parent
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0 Safari/537.36"
 
+CACHE = pathlib.Path.home() / ".config/damienprime/spotify/sp_dc"
+
 def sp_dc_trousseau():
+    if CACHE.exists() and CACHE.read_text().strip():
+        return CACHE.read_text().strip()
+    v = _sp_dc_trousseau()
+    CACHE.parent.mkdir(parents=True, exist_ok=True); CACHE.write_text(v); CACHE.chmod(0o600)
+    return v
+
+def _sp_dc_trousseau():
     pw = subprocess.run(["security", "find-generic-password", "-s", "Chrome Safe Storage", "-w"],
-                        capture_output=True, text=True, timeout=180).stdout.strip()
+                        capture_output=True, text=True, timeout=900).stdout.strip()
     if not pw: raise SystemExit("trousseau : clé Chrome refusée ou absente")
     key = hashlib.pbkdf2_hmac("sha1", pw.encode(), b"saltysalt", 1003, 16)
     src = pathlib.Path.home() / "Library/Application Support/Google/Chrome/Default/Cookies"
@@ -32,15 +41,24 @@ def jeton_depuis_sp_dc(sp_dc):
     if s.get("isAnonymous"): raise SystemExit("session anonyme : le cookie sp_dc ne connecte pas")
     return s["accessToken"]
 
+def entetes_lecteur():
+    """En-têtes du lecteur web (session.mjs, Chrome sans fenêtre) ; rafraîchis s'ils ont plus de 50 min."""
+    f = CACHE.parent / "entetes.json"
+    if not f.exists() or time.time() * 1000 - json.load(open(f)).get("pris", 0) > 50 * 60 * 1000:
+        r = subprocess.run(["node", str(ICI / "session.mjs")], capture_output=True, text=True, timeout=120)
+        print(r.stdout.strip())
+        if r.returncode != 0: raise SystemExit("session.mjs a échoué")
+    return json.load(open(f))
+
 class Api:
-    def __init__(self, tok): self.tok = tok
+    def __init__(self, tok, extra=None): self.tok = tok; self.extra = extra or {}
     def call(self, method, path, body=None, params=None):
         url = "https://api.spotify.com/v1" + path + (("?" + urllib.parse.urlencode(params)) if params else "")
         data = json.dumps(body).encode() if body is not None else None
         for _ in range(5):
             req = urllib.request.Request(url, data=data, method=method, headers={
                 "Authorization": "Bearer " + self.tok, "Content-Type": "application/json", "User-Agent": UA,
-                "app-platform": "WebPlayer", "Accept": "application/json"})
+                "app-platform": "WebPlayer", "Accept": "application/json", **self.extra})
             try:
                 with urllib.request.urlopen(req, timeout=30) as r:
                     raw = r.read(); return json.loads(raw) if raw else {}
@@ -51,10 +69,11 @@ class Api:
 
 def main():
     args = sys.argv[1:]
-    if "--trousseau" in args: sp_dc = sp_dc_trousseau()
-    elif "--sp-dc" in args: sp_dc = args[args.index("--sp-dc") + 1]
-    else: sp_dc = os.environ.get("SP_DC") or sys.exit("il faut --sp-dc, SP_DC ou --trousseau")
-    api = Api(jeton_depuis_sp_dc(sp_dc))
+    if "--sp-dc" in args: api = Api(jeton_depuis_sp_dc(args[args.index("--sp-dc") + 1]))
+    else:
+        sp_dc_trousseau()  # garantit le cookie en cache (dialogue trousseau la première fois)
+        h = entetes_lecteur()
+        api = Api(h["authorization"].split(" ", 1)[1], {k: v for k, v in h.items() if k in ("client-token", "spotify-app-version", "app-platform")})
     moi = api.call("GET", "/me"); print("connecté :", moi.get("display_name"), moi.get("id"))
     plans = json.load(open(ICI / "playlists.json"))
     liens_p = ICI / "liens.json"; liens = json.load(open(liens_p)) if liens_p.exists() else {}

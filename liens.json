@@ -1,0 +1,37 @@
+{
+ "classique": {
+  "id": "1KcLSMq1AzlxIcQEkWfh9t",
+  "url": "https://open.spotify.com/playlist/1KcLSMq1AzlxIcQEkWfh9t",
+  "nom": "TAF · Classique"
+ },
+ "piano": {
+  "id": "3NSdSQK6UiUm1GvhULMtd9",
+  "url": "https://open.spotify.com/playlist/3NSdSQK6UiUm1GvhULMtd9",
+  "nom": "TAF · Piano"
+ },
+ "jazz": {
+  "id": "26iPLFneB5kCA41oekE9bW",
+  "url": "https://open.spotify.com/playlist/26iPLFneB5kCA41oekE9bW",
+  "nom": "TAF · Jazz"
+ },
+ "lofi": {
+  "id": "5bN31fZ4Vo3uyTQukjQ9eY",
+  "url": "https://open.spotify.com/playlist/5bN31fZ4Vo3uyTQukjQ9eY",
+  "nom": "TAF · Lofi"
+ },
+ "ambient": {
+  "id": "1ITGkVNnlL15lL8NnpouIq",
+  "url": "https://open.spotify.com/playlist/1ITGkVNnlL15lL8NnpouIq",
+  "nom": "TAF · Ambient"
+ },
+ "bruit": {
+  "id": "4GbrDswMn6RPU9b7v4PknJ",
+  "url": "https://open.spotify.com/playlist/4GbrDswMn6RPU9b7v4PknJ",
+  "nom": "TAF · Bruits sourds"
+ },
+ "jeux": {
+  "id": "6vSNEZnCV4QmCL7aOXz5Dn",
+  "url": "https://open.spotify.com/playlist/6vSNEZnCV4QmCL7aOXz5Dn",
+  "nom": "TAF · Jeux vidéo"
+ }
+}
